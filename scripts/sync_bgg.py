@@ -124,7 +124,7 @@ def compact_text(games, updated):
         weight = f"{g['weight']:.1f}" if g.get("weight") else "?"
         rating = f"{g['avg_rating']:.1f}" if g.get("avg_rating") else "?"
         best = ",".join(map(str, g.get("best") or [])) or "?"
-        mech = ", ".join((g.get("mechanics") or [])[:5]) or "?"
+        mech = ", ".join((g.get("mechanics") or [])[:8]) or "?"
         lines.append(
             f"{g['name']} | {players} | {g.get('playingtime') or '?'} | {weight} | {rating} | {g.get('numplays', 0)} | {best} | {mech}"
         )
