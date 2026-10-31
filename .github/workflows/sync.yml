@@ -1,0 +1,34 @@
+name: Aggiorna collezione BGG
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # ogni notte
+  workflow_dispatch:        # anche a mano dalla scheda Actions
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/sync.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install httpx
+      - name: Scarica la collezione da BGG
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+          BGG_USERNAME: ${{ vars.BGG_USERNAME || 'nkbobo' }}
+        run: python scripts/sync_bgg.py
+      - name: Salva i dati se sono cambiati
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (git commit -m "Aggiorna collezione" && git push)

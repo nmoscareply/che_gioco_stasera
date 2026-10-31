@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Che gioco stasera?</title>
+<style>
+  :root { --bg:#f6f5f1; --card:#fff; --ink:#1d1d1b; --muted:#6b6b66; --accent:#1f7a4d; --line:#e2e0d8; --warn:#9a6700; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#161715; --card:#20211f; --ink:#ecebe6; --muted:#9a9a92; --accent:#4cc38a; --line:#34352f; --warn:#e3b341; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.45 system-ui,-apple-system,Segoe UI,sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:20px 16px 60px; }
+  h1 { font-size:1.6rem; margin:0 0 4px; }
+  .sub { color:var(--muted); font-size:.9rem; margin-bottom:18px; }
+  form { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; display:grid; gap:14px; grid-template-columns:1fr 1fr; }
+  form .full { grid-column:1 / -1; }
+  label { display:block; font-size:.8rem; color:var(--muted); margin-bottom:4px; }
+  input, select { width:100%; padding:10px; border:1px solid var(--line); border-radius:10px; background:var(--bg); color:var(--ink); font:inherit; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; }
+  .chip { border:1px solid var(--line); background:var(--bg); color:var(--ink); border-radius:999px; padding:5px 11px; font-size:.82rem; cursor:pointer; }
+  .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .chip.off { background:#b3261e; border-color:#b3261e; color:#fff; }
+  #summary { margin:18px 2px 8px; color:var(--muted); font-size:.9rem; }
+  .game { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px; margin-bottom:10px; display:flex; gap:12px; }
+  .game img { width:72px; height:72px; object-fit:cover; border-radius:10px; flex:none; background:var(--line); }
+  .game h2 { font-size:1.05rem; margin:0 0 4px; }
+  .meta { color:var(--muted); font-size:.85rem; }
+  .tags { margin-top:6px; font-size:.78rem; color:var(--muted); }
+  .badge { display:inline-block; font-size:.72rem; padding:2px 8px; border-radius:999px; background:var(--accent); color:#fff; margin-left:6px; vertical-align:middle; }
+  .note { color:var(--warn); font-size:.82rem; margin-top:4px; }
+  .hint { color:var(--muted); font-size:.8rem; margin-top:24px; }
+  button.primary { padding:10px 14px; border-radius:10px; border:0; background:var(--accent); color:#fff; font:inherit; cursor:pointer; }
+  @media (max-width:520px) { form { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Che gioco stasera?</h1>
+  <div class="sub" id="updated">Caricamento della collezione...</div>
+
+  <form id="f" onsubmit="return false">
+    <div><label for="players">Giocatori</label><input id="players" type="number" min="1" max="12" placeholder="es. 4"></div>
+    <div><label for="minutes">Tempo disponibile (minuti)</label><input id="minutes" type="number" min="5" step="5" placeholder="es. 60"></div>
+    <div class="full">
+      <label for="group">Esperienza del gruppo</label>
+      <select id="group">
+        <option value="">Qualsiasi</option>
+        <option value="0,2.0">Nuovi giocatori (leggero, fino a 2.0)</option>
+        <option value="1.5,3.0">Occasionali (1.5 - 3.0)</option>
+        <option value="2.5,5">Esperti (da 2.5 in su)</option>
+      </select>
+    </div>
+    <div class="full">
+      <label>Meccaniche: clic = richiesta, secondo clic = da evitare, terzo = nessun filtro</label>
+      <div class="chips" id="chips"></div>
+    </div>
+    <div class="full"><button class="primary" id="reset" type="button">Azzera filtri</button></div>
+  </form>
+
+  <div id="summary"></div>
+  <div id="results"></div>
+  <div class="hint">Ordine: prima i giochi che combaciano meglio, a parità di match voto medio BGG decrescente, poi i meno giocati.</div>
+</main>
+
+<script src="filter.js"></script>
+<script>
+const state = { games: [], must: new Set(), avoid: new Set() };
+const $ = (id) => document.getElementById(id);
+
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function buildChips() {
+  const count = new Map();
+  for (const g of state.games) for (const m of g.mechanics || []) count.set(m, (count.get(m) || 0) + 1);
+  const top = [...count.entries()].sort((a, b) => b[1] - a[1]).slice(0, 28).map(([m]) => m);
+  $("chips").innerHTML = "";
+  for (const m of top) {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "chip"; b.textContent = m;
+    b.onclick = () => {
+      if (state.must.has(m)) { state.must.delete(m); state.avoid.add(m); }
+      else if (state.avoid.has(m)) { state.avoid.delete(m); }
+      else { state.must.add(m); }
+      b.className = "chip" + (state.must.has(m) ? " on" : state.avoid.has(m) ? " off" : "");
+      render();
+    };
+    $("chips").appendChild(b);
+  }
+}
+
+function criteria() {
+  const [wmin, wmax] = $("group").value ? $("group").value.split(",").map(Number) : [null, null];
+  return {
+    players: Number($("players").value) || null,
+    maxMinutes: Number($("minutes").value) || null,
+    weightMin: wmin, weightMax: wmax,
+    mechanics: [...state.must].join(","),
+    exclude: [...state.avoid].join(","),
+  };
+}
+
+function card({ game: g, notes }, full) {
+  const players = g.minplayers === g.maxplayers ? g.minplayers : `${g.minplayers}-${g.maxplayers}`;
+  const best = g.best && g.best.length ? ` · ottimale a ${g.best.join(", ")}` : "";
+  return `<div class="game">
+    ${g.thumbnail ? `<img loading="lazy" src="${esc(g.thumbnail)}" alt="">` : `<img alt="">`}
+    <div>
+      <h2>${esc(g.name)}${full ? "" : ""}${g.avg_rating ? `<span class="badge">${g.avg_rating.toFixed(1)}</span>` : ""}</h2>
+      <div class="meta">${players} giocatori · ${g.playingtime || "?"} min · peso ${g.weight ? g.weight.toFixed(1) : "?"} · giocato ${g.numplays || 0} volte${best}</div>
+      <div class="tags">${esc((g.mechanics || []).slice(0, 5).join(" · "))}</div>
+      ${notes.map((n) => `<div class="note">${esc(n)}</div>`).join("")}
+    </div></div>`;
+}
+
+function render() {
+  const { strict, relaxed, unknownWeight } = searchGames(state.games, criteria());
+  const out = [...strict.slice(0, 12)];
+  if (strict.length < 3) out.push(...relaxed.slice(0, 5 - strict.length));
+  $("summary").textContent = state.games.length
+    ? `${strict.length} giochi combaciano${relaxed.length ? `, ${relaxed.length} quasi` : ""}${unknownWeight ? ` (${unknownWeight} senza peso noto esclusi)` : ""}.`
+    : "";
+  $("results").innerHTML = out.length ? out.map((e) => card(e)).join("") : "<p>Nessun gioco soddisfa i criteri. Prova ad allargare tempo, esperienza o meccaniche.</p>";
+}
+
+fetch("data/collection.json")
+  .then((r) => r.json())
+  .then((d) => {
+    state.games = d.games;
+    $("updated").textContent = `${d.games.length} giochi di ${d.user}, aggiornata il ${new Date(d.updated).toLocaleDateString("it-IT")}`;
+    buildChips(); render();
+  })
+  .catch(() => { $("updated").textContent = "Impossibile caricare la collezione (data/collection.json)."; });
+
+["players", "minutes", "group"].forEach((id) => $(id).addEventListener("input", render));
+$("reset").onclick = () => { $("f").reset(); state.must.clear(); state.avoid.clear(); buildChips(); render(); };
+</script>
+</body>
+</html>
