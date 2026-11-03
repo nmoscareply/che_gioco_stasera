@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-02T04:01+00:00. 414 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-03T03:58+00:00. 414 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid, Income
@@ -325,7 +325,7 @@ TIME Stories Revolution: A Midsummer Night | 1-4 | 180 | 2.3 | 6.7 | 0 | 2,4 | C
 Moon River | 2-4 | 45 | 2.0 | 6.7 | 0 | 2 | Open Drafting, Take That, Tile Placement, Turn Order: Claim Action
 Rolling Ranch | 1-20 | 20 | 1.2 | 6.7 | 0 | 4,5,8,9,10,11,12 | Dice Rolling, Paper-and-Pencil
 Sand | 1-4 | 120 | 3.3 | 6.7 | 0 | 2 | Action Points, Contracts, Dice Rolling, Different Dice Movement, Pick-up and Deliver, Point to Point Movement, Resource to Move, Set Collection
-Brick Like This! | 2-8 | 15 | 1.2 | 6.7 | 0 | 4,6 | Communication Limits, Pattern Building, Race, Real-Time, Team-Based Game
+Brick Like This! | 2-8 | 15 | 1.2 | 6.7 | 0 | 4,6,8 | Communication Limits, Pattern Building, Race, Real-Time, Team-Based Game
 A Peaceful Garden | 2 | 15 | 1.3 | 6.7 | 0 | 2 | Area Majority / Influence, Variable Set-up
 My First Carcassonne | 2-4 | 20 | 1.1 | 6.7 | 0 | 4 | Enclosure, Modular Board, Tile Placement
 Cookie Box | 2-4 | 20 | 1.0 | 6.6 | 0 | 4 | Memory, Pattern Recognition
