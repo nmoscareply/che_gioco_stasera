@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-04T04:00+00:00. 414 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-05T04:00+00:00. 414 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid, Income
@@ -97,7 +97,7 @@ EXIT: The Game – Advent Calendar: The Intergalactic Race | 1-99 | 45 | 2.0 | 7
 Patchwork | 2 | 30 | 1.6 | 7.6 | 0 | 2 | Grid Coverage, Income, Open Drafting, Rondel, Square Grid, Tile Placement, Turn Order: Stat-Based, Turn Order: Time Track
 The Taverns of Tiefenthal | 2-4 | 60 | 2.7 | 7.6 | 0 | 2,3 | Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Turn Order: Progressive, Worker Placement, Worker Placement with Dice Workers
 Garden | 2-5 | 15 | ? | 7.6 | 0 | ? | Set Collection
-Opera Magna | 2-4 | 60 | 2.9 | 7.6 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
+Opera Magna | 2-4 | 60 | 3.0 | 7.6 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
 Unlock!: Extraordinary Adventures | 1-6 | 90 | 2.2 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Storytelling
 In the Year of the Dragon: 10th Anniversary | 2-5 | 100 | 2.9 | 7.6 | 0 | 4,5 | Action Drafting, Events, Hand Management, Turn Order: Stat-Based
 Let's Go! To Japan | 1-4 | 60 | 2.3 | 7.6 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Melding and Splaying, Multi-Use Cards, Set Collection, Simultaneous Action Selection
