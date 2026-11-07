@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-06T03:59+00:00. 414 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-07T03:56+00:00. 414 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid, Income
@@ -9,7 +9,7 @@ SherBlock: Uno Scandalo in Boemia | 1 | 30 | ? | 8.3 | 0 | 1 | Narrative Choice 
 Tristerra: La Grande Baldoria | 3-7 | 120 | ? | 8.3 | 0 | ? | Role Playing, Storytelling
 Terraforming Mars | 1-5 | 120 | 3.3 | 8.3 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Hexagon Grid, Income, Solo / Solitaire Game, Tags
 Too Many Bones | 1-4 | 120 | 3.9 | 8.3 | 0 | 2 | Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Narrative Choice / Paragraph, Resource to Move, Role Playing, Scenario / Mission / Campaign Game
-The Trial of the Forest | 2-4 | 120 | 2.7 | 8.3 | 0 | 3 | Set Collection, Storytelling, Track Movement
+The Trial of the Forest | 2-4 | 120 | 2.6 | 8.3 | 0 | 3,4 | Set Collection, Storytelling, Track Movement
 Great Western Trail: Second Edition | 1-4 | 150 | 3.7 | 8.3 | 0 | 3 | Deck, Bag, and Pool Building, Hand Management, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Tags, Track Movement
 Through the Ages: A New Story of Civilization | 2-4 | 120 | 4.4 | 8.2 | 0 | 3 | Action Points, Auction / Bidding, Auction: Dutch, Events, Income, Open Drafting, Player Elimination, Tags
 The Morrison Game Factory | 1-4 | 240 | 2.2 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
@@ -24,7 +24,7 @@ Nucleum | 1-4 | 150 | 4.2 | 8.1 | 0 | 3,4 | Action Retrieval, Contracts, End Gam
 Sky Team | 2 | 20 | 2.0 | 8.1 | 0 | 2 | Communication Limits, Cooperative Game, Dice Rolling, Scenario / Mission / Campaign Game, Turn Order: Progressive, Variable Player Powers, Variable Set-up, Worker Placement with Dice Workers
 Lost Ruins of Arnak | 1-4 | 120 | 2.9 | 8.1 | 0 | 3 | Area Movement, Contracts, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Hand Management, Multi-Use Cards, Once-Per-Game Abilities
 Darwin's Journey | 1-4 | 120 | 3.9 | 8.1 | 0 | 3 | Contracts, Ownership, Pick-up and Deliver, Point to Point Movement, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Set-up
-Marrakesh | 2-4 | 120 | 3.4 | 8.1 | 0 | 3 | Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection
+Marrakesh | 2-4 | 120 | 3.5 | 8.1 | 0 | 3 | Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection
 Revive | 1-4 | 120 | 3.5 | 8.0 | 0 | 3 | Deck, Bag, and Pool Building, Hexagon Grid, Map Addition, Network and Route Building, Open Drafting, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers
 A Wild Venture | 2 | 60 | 2.6 | 8.0 | 0 | 2 | Hand Management, Memory, Point to Point Movement, Set Collection, Track Movement
 Bomb Busters | 2-5 | 30 | 2.0 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Deduction, Memory, Once-Per-Game Abilities, Real-Time, Scenario / Mission / Campaign Game, Sudden Death Ending
