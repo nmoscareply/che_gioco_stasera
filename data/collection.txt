@@ -1,7 +1,7 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-08T03:58+00:00. 440 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-09T04:02+00:00. 440 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
-Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid, Income
+Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
 SETI: Search for Extraterrestrial Intelligence | 1-4 | 160 | 3.8 | 8.4 | 0 | 3 | Area Majority / Influence, End Game Bonuses, Income, Multi-Use Cards, Resource to Move, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up
 The Lord of the Rings: Duel for Middle-earth | 2 | 30 | 2.1 | 8.3 | 0 | 2 | Area Majority / Influence, Hand Management, Income, Layering, Market, Modular Board, Multi-Use Cards, Once-Per-Game Abilities
 SherBlock: Lo Spettro di Londra | 1 | 30 | ? | 8.3 | 0 | ? | Narrative Choice / Paragraph, Solo / Solitaire Game
@@ -12,7 +12,7 @@ Too Many Bones | 1-4 | 120 | 3.9 | 8.3 | 0 | 2 | Cooperative Game, Dice Rolling,
 Níjar | 1-4 | 120 | 3.3 | 8.3 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
 Great Western Trail: Second Edition | 1-4 | 150 | 3.7 | 8.3 | 0 | 3 | Deck, Bag, and Pool Building, Hand Management, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Tags, Track Movement
 Through the Ages: A New Story of Civilization | 2-4 | 120 | 4.4 | 8.2 | 0 | 3 | Action Points, Auction / Bidding, Auction: Dutch, Events, Income, Open Drafting, Player Elimination, Tags
-The Trial of the Forest | 2-4 | 120 | 2.6 | 8.2 | 0 | 3,4 | Set Collection, Storytelling, Track Movement
+The Trial of the Forest | 2-4 | 120 | 2.5 | 8.2 | 0 | 3,4 | Set Collection, Storytelling, Track Movement
 The Morrison Game Factory | 1-4 | 240 | 2.2 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Brass: Lancashire | 2-4 | 120 | 3.8 | 8.2 | 0 | 4 | Chaining, End Game Bonuses, Hand Management, Income, Loans, Market, Multi-Use Cards, Network and Route Building
 La Granja: Deluxe Master Set | 1-4 | 120 | 3.5 | 8.2 | 0 | 3 | Action Drafting, Area Majority / Influence, Automatic Resource Growth, Contracts, Dice Rolling, Hand Management, Income, Market
@@ -32,7 +32,7 @@ Bomb Busters | 2-5 | 30 | 2.0 | 8.0 | 0 | 4 | Communication Limits, Cooperative 
 Gibboni | 3-9 | 30 | ? | 8.0 | 0 | ? | ?
 Wingspan | 1-5 | 70 | 2.5 | 8.0 | 0 | 3 | Action Queue, Dice Rolling, End Game Bonuses, Hand Management, Open Drafting, Set Collection, Solo / Solitaire Game, Turn Order: Progressive
 The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game | 1-4 | 20 | 1.9 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Scenario / Mission / Campaign Game, Trick-taking
-Forest Shuffle: Smoky Mountains | 2-5 | 60 | 2.4 | 8.0 | 0 | 2,3 | End Game Bonuses, Hand Management, Layering, Multi-Use Cards, Open Drafting, Set Collection
+Forest Shuffle: Smoky Mountains | 2-5 | 60 | 2.3 | 8.0 | 0 | 2 | End Game Bonuses, Hand Management, Layering, Multi-Use Cards, Open Drafting, Set Collection
 The White Castle | 1-4 | 80 | 3.1 | 8.0 | 0 | 3 | Action Drafting, Area Movement, Dice Rolling, End Game Bonuses, Income, Melding and Splaying, Multi-Use Cards, Open Drafting
 Dorfromantik: Sakura | 1-6 | 90 | 1.9 | 8.0 | 0 | 2 | Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement
 Grand Austria Hotel | 2-4 | 120 | 3.2 | 8.0 | 0 | 2 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Set Collection, Turn Order: Progressive, Variable Set-up
