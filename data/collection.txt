@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-09T04:02+00:00. 440 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-10T03:58+00:00. 440 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -32,7 +32,7 @@ Bomb Busters | 2-5 | 30 | 2.0 | 8.0 | 0 | 4 | Communication Limits, Cooperative 
 Gibboni | 3-9 | 30 | ? | 8.0 | 0 | ? | ?
 Wingspan | 1-5 | 70 | 2.5 | 8.0 | 0 | 3 | Action Queue, Dice Rolling, End Game Bonuses, Hand Management, Open Drafting, Set Collection, Solo / Solitaire Game, Turn Order: Progressive
 The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game | 1-4 | 20 | 1.9 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Scenario / Mission / Campaign Game, Trick-taking
-Forest Shuffle: Smoky Mountains | 2-5 | 60 | 2.3 | 8.0 | 0 | 2 | End Game Bonuses, Hand Management, Layering, Multi-Use Cards, Open Drafting, Set Collection
+Forest Shuffle: Smoky Mountains | 2-5 | 60 | 2.3 | 8.0 | 0 | 2,3 | End Game Bonuses, Hand Management, Layering, Multi-Use Cards, Open Drafting, Set Collection
 The White Castle | 1-4 | 80 | 3.1 | 8.0 | 0 | 3 | Action Drafting, Area Movement, Dice Rolling, End Game Bonuses, Income, Melding and Splaying, Multi-Use Cards, Open Drafting
 Dorfromantik: Sakura | 1-6 | 90 | 1.9 | 8.0 | 0 | 2 | Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement
 Grand Austria Hotel | 2-4 | 120 | 3.2 | 8.0 | 0 | 2 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Set Collection, Turn Order: Progressive, Variable Set-up
@@ -119,7 +119,7 @@ Cooper Island | 1-4 | 120 | 4.2 | 7.5 | 0 | 3 | Income, Layering, Tile Placement
 Tea Garden | 2-4 | 120 | 3.1 | 7.5 | 0 | 3 | Automatic Resource Growth, Deck, Bag, and Pool Building, End Game Bonuses
 Mindbug: First Contact | 2 | 25 | 1.9 | 7.5 | 0 | 2 | Hand Management, Take That
 Faraway | 2-6 | 25 | 2.0 | 7.5 | 0 | 2,3 | Constrained Bidding, End Game Bonuses, Hand Management, Open Drafting, Selection Order Bid, Set Collection, Simultaneous Action Selection, Tags
-Opera Magna | 2-4 | 60 | 3.0 | 7.5 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
+Opera Magna | 2-4 | 60 | 3.1 | 7.5 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
 Medical Mysteries: NYC Emergency Room | 1-4 | 60 | 2.1 | 7.5 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game
 Kalypso | 1-4 | 60 | 2.3 | 7.5 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
 Port Royal: Big Box | 1-5 | 50 | 1.8 | 7.5 | 0 | 3,4 | Contracts, Cooperative Game, Move Through Deck, Open Drafting, Push Your Luck, Set Collection, Solo / Solitaire Game
@@ -412,7 +412,7 @@ Warehouse 51 | 3-5 | 45 | 1.8 | 6.2 | 0 | 5 | Auction / Bidding, Set Collection
 Espresso Doppio | 1-2 | 30 | 1.3 | 6.2 | 0 | 2 | Contracts
 Dreamember | 2-6 | 30 | 2.0 | 6.2 | 0 | 3,4 | Betting and Bluffing, Deduction, Hand Management
 Depot | 3-5 | 15 | 1.5 | 6.1 | 0 | 4 | Ladder Climbing
-The Mix | 1-4 | 90 | 2.2 | 6.1 | 0 | 1 | Deck, Bag, and Pool Building, Dice Rolling, Income, Market, Resource to Move, Simultaneous Action Selection, Worker Placement
+The Mix | 1-4 | 90 | 2.5 | 6.1 | 0 | 1 | Deck, Bag, and Pool Building, Dice Rolling, Income, Market, Resource to Move, Simultaneous Action Selection, Worker Placement
 Fire & Stone | 2-4 | 60 | 2.0 | 6.1 | 0 | 4 | Worker Placement
 Wool Street | 2-5 | 15 | ? | 6.1 | 0 | ? | Auction / Bidding, Commodity Speculation
 Operation: Mata Hari | 3-8 | 45 | 2.0 | 6.1 | 0 | 7 | Auction / Bidding, Betting and Bluffing, Hand Management, Trading
