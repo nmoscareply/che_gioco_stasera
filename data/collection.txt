@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-10T03:58+00:00. 440 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-11T04:02+00:00. 440 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -112,7 +112,7 @@ Let's Go! To Japan | 1-4 | 60 | 2.3 | 7.6 | 0 | 3 | Closed Drafting, Contracts, 
 Woodcraft | 1-4 | 120 | 3.8 | 7.6 | 0 | 3 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Income, Rondel, Solo / Solitaire Game
 Bora Bora | 2-4 | 120 | 3.7 | 7.6 | 0 | 4 | Dice Rolling, Set Collection, Worker Placement, Worker Placement with Dice Workers
 Azul: Summer Pavilion | 2-4 | 45 | 2.1 | 7.6 | 0 | 2,3 | End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action
-That's Pretty Clever! | 1-4 | 30 | 1.8 | 7.5 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
+That's Pretty Clever! | 1-4 | 30 | 1.9 | 7.5 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
 Near: Echoes of Civilizations | 2-4 | 120 | 3.4 | 7.5 | 0 | 4 | Campaign / Battle Card Driven, Events, Grid Movement, Hand Management, Hexagon Grid, Multi-Use Cards, Set Collection
 The Gang | 3-6 | 20 | 1.6 | 7.5 | 0 | 5 | Communication Limits, Cooperative Game, Deduction, Predictive Bid
 Cooper Island | 1-4 | 120 | 4.2 | 7.5 | 0 | 3 | Income, Layering, Tile Placement, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types
@@ -121,7 +121,7 @@ Mindbug: First Contact | 2 | 25 | 1.9 | 7.5 | 0 | 2 | Hand Management, Take That
 Faraway | 2-6 | 25 | 2.0 | 7.5 | 0 | 2,3 | Constrained Bidding, End Game Bonuses, Hand Management, Open Drafting, Selection Order Bid, Set Collection, Simultaneous Action Selection, Tags
 Opera Magna | 2-4 | 60 | 3.1 | 7.5 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
 Medical Mysteries: NYC Emergency Room | 1-4 | 60 | 2.1 | 7.5 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game
-Kalypso | 1-4 | 60 | 2.3 | 7.5 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
+Kalypso | 1-4 | 60 | 2.4 | 7.5 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
 Port Royal: Big Box | 1-5 | 50 | 1.8 | 7.5 | 0 | 3,4 | Contracts, Cooperative Game, Move Through Deck, Open Drafting, Push Your Luck, Set Collection, Solo / Solitaire Game
 Codenames | 2-8 | 15 | 1.3 | 7.5 | 0 | 6,8 | Communication Limits, Deduction, Memory, Race, Team-Based Game
 Arborea | 1-5 | 120 | 3.7 | 7.5 | 0 | 2,3 | Bias, End Game Bonuses, Slide / Push, Solo / Solitaire Game, Tile Placement, Track Movement, Variable Set-up, Worker Placement
@@ -412,7 +412,7 @@ Warehouse 51 | 3-5 | 45 | 1.8 | 6.2 | 0 | 5 | Auction / Bidding, Set Collection
 Espresso Doppio | 1-2 | 30 | 1.3 | 6.2 | 0 | 2 | Contracts
 Dreamember | 2-6 | 30 | 2.0 | 6.2 | 0 | 3,4 | Betting and Bluffing, Deduction, Hand Management
 Depot | 3-5 | 15 | 1.5 | 6.1 | 0 | 4 | Ladder Climbing
-The Mix | 1-4 | 90 | 2.5 | 6.1 | 0 | 1 | Deck, Bag, and Pool Building, Dice Rolling, Income, Market, Resource to Move, Simultaneous Action Selection, Worker Placement
+The Mix | 1-4 | 90 | 2.5 | 6.1 | 0 | ? | Deck, Bag, and Pool Building, Dice Rolling, Income, Market, Resource to Move, Simultaneous Action Selection, Worker Placement
 Fire & Stone | 2-4 | 60 | 2.0 | 6.1 | 0 | 4 | Worker Placement
 Wool Street | 2-5 | 15 | ? | 6.1 | 0 | ? | Auction / Bidding, Commodity Speculation
 Operation: Mata Hari | 3-8 | 45 | 2.0 | 6.1 | 0 | 7 | Auction / Bidding, Betting and Bluffing, Hand Management, Trading
