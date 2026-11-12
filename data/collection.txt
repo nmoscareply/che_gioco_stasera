@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-11T04:02+00:00. 440 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-12T04:01+00:00. 440 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -9,10 +9,10 @@ SherBlock: Uno Scandalo in Boemia | 1 | 30 | ? | 8.3 | 0 | 1 | Narrative Choice 
 Tristerra: La Grande Baldoria | 3-7 | 120 | ? | 8.3 | 0 | ? | Role Playing, Storytelling
 Terraforming Mars | 1-5 | 120 | 3.3 | 8.3 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Hexagon Grid, Income, Solo / Solitaire Game, Tags
 Too Many Bones | 1-4 | 120 | 3.9 | 8.3 | 0 | 2 | Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Narrative Choice / Paragraph, Resource to Move, Role Playing, Scenario / Mission / Campaign Game
-Níjar | 1-4 | 120 | 3.3 | 8.3 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
+Níjar | 1-4 | 120 | 3.2 | 8.3 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
 Great Western Trail: Second Edition | 1-4 | 150 | 3.7 | 8.3 | 0 | 3 | Deck, Bag, and Pool Building, Hand Management, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Tags, Track Movement
 Through the Ages: A New Story of Civilization | 2-4 | 120 | 4.4 | 8.2 | 0 | 3 | Action Points, Auction / Bidding, Auction: Dutch, Events, Income, Open Drafting, Player Elimination, Tags
-The Trial of the Forest | 2-4 | 120 | 2.5 | 8.2 | 0 | 3,4 | Set Collection, Storytelling, Track Movement
+The Trial of the Forest | 2-4 | 120 | 2.6 | 8.2 | 0 | 3 | Set Collection, Storytelling, Track Movement
 The Morrison Game Factory | 1-4 | 240 | 2.2 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Brass: Lancashire | 2-4 | 120 | 3.8 | 8.2 | 0 | 4 | Chaining, End Game Bonuses, Hand Management, Income, Loans, Market, Multi-Use Cards, Network and Route Building
 La Granja: Deluxe Master Set | 1-4 | 120 | 3.5 | 8.2 | 0 | 3 | Action Drafting, Area Majority / Influence, Automatic Resource Growth, Contracts, Dice Rolling, Hand Management, Income, Market
@@ -113,7 +113,7 @@ Woodcraft | 1-4 | 120 | 3.8 | 7.6 | 0 | 3 | Action Drafting, Contracts, Dice Rol
 Bora Bora | 2-4 | 120 | 3.7 | 7.6 | 0 | 4 | Dice Rolling, Set Collection, Worker Placement, Worker Placement with Dice Workers
 Azul: Summer Pavilion | 2-4 | 45 | 2.1 | 7.6 | 0 | 2,3 | End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action
 That's Pretty Clever! | 1-4 | 30 | 1.9 | 7.5 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
-Near: Echoes of Civilizations | 2-4 | 120 | 3.4 | 7.5 | 0 | 4 | Campaign / Battle Card Driven, Events, Grid Movement, Hand Management, Hexagon Grid, Multi-Use Cards, Set Collection
+Near: Echoes of Civilizations | 2-4 | 120 | 3.4 | 7.5 | 0 | 2,3,4 | Campaign / Battle Card Driven, Events, Grid Movement, Hand Management, Hexagon Grid, Multi-Use Cards, Set Collection
 The Gang | 3-6 | 20 | 1.6 | 7.5 | 0 | 5 | Communication Limits, Cooperative Game, Deduction, Predictive Bid
 Cooper Island | 1-4 | 120 | 4.2 | 7.5 | 0 | 3 | Income, Layering, Tile Placement, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types
 Tea Garden | 2-4 | 120 | 3.1 | 7.5 | 0 | 3 | Automatic Resource Growth, Deck, Bag, and Pool Building, End Game Bonuses
@@ -157,7 +157,7 @@ Mille Fiori | 2-4 | 90 | 2.2 | 7.4 | 0 | 4 | Area Majority / Influence, Closed D
 Disney Lorcana: Illumineer's Quest – Deep Trouble | 1-2 | 60 | 2.6 | 7.4 | 0 | 1,2 | Cooperative Game, Deck Construction, Solo / Solitaire Game
 Medico | 2-4 | 90 | 2.8 | 7.4 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
 Twice as Clever! | 1-4 | 30 | 2.3 | 7.4 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
-Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3 | Grid Movement, Set Collection
+Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3,4 | Grid Movement, Set Collection
 Codenames: Duet | 2 | 30 | 1.4 | 7.4 | 0 | 2 | Communication Limits, Cooperative Game, Memory
 Macao | 2-4 | 100 | 3.1 | 7.4 | 0 | 3 | Action Points, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Pick-up and Deliver, Set Collection
 Rising Cultures | 2 | 45 | 2.9 | 7.4 | 0 | 2 | Multi-Use Cards
