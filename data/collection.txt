@@ -1,22 +1,22 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-12T04:01+00:00. 440 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-13T10:57+00:00. 440 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
 SETI: Search for Extraterrestrial Intelligence | 1-4 | 160 | 3.8 | 8.4 | 0 | 3 | Area Majority / Influence, End Game Bonuses, Income, Multi-Use Cards, Resource to Move, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up
-The Lord of the Rings: Duel for Middle-earth | 2 | 30 | 2.1 | 8.3 | 0 | 2 | Area Majority / Influence, Hand Management, Income, Layering, Market, Modular Board, Multi-Use Cards, Once-Per-Game Abilities
+The Lord of the Rings: Duel for Middle-earth | 2 | 30 | 2.1 | 8.4 | 0 | 2 | Area Majority / Influence, Hand Management, Income, Layering, Market, Modular Board, Multi-Use Cards, Once-Per-Game Abilities
 SherBlock: Lo Spettro di Londra | 1 | 30 | ? | 8.3 | 0 | ? | Narrative Choice / Paragraph, Solo / Solitaire Game
 SherBlock: Uno Scandalo in Boemia | 1 | 30 | ? | 8.3 | 0 | 1 | Narrative Choice / Paragraph, Solo / Solitaire Game
 Tristerra: La Grande Baldoria | 3-7 | 120 | ? | 8.3 | 0 | ? | Role Playing, Storytelling
 Terraforming Mars | 1-5 | 120 | 3.3 | 8.3 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Hexagon Grid, Income, Solo / Solitaire Game, Tags
+The Trial of the Forest | 2-4 | 120 | 2.6 | 8.3 | 0 | 3 | Set Collection, Storytelling, Track Movement
 Too Many Bones | 1-4 | 120 | 3.9 | 8.3 | 0 | 2 | Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Narrative Choice / Paragraph, Resource to Move, Role Playing, Scenario / Mission / Campaign Game
-Níjar | 1-4 | 120 | 3.2 | 8.3 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
 Great Western Trail: Second Edition | 1-4 | 150 | 3.7 | 8.3 | 0 | 3 | Deck, Bag, and Pool Building, Hand Management, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Tags, Track Movement
 Through the Ages: A New Story of Civilization | 2-4 | 120 | 4.4 | 8.2 | 0 | 3 | Action Points, Auction / Bidding, Auction: Dutch, Events, Income, Open Drafting, Player Elimination, Tags
-The Trial of the Forest | 2-4 | 120 | 2.6 | 8.2 | 0 | 3 | Set Collection, Storytelling, Track Movement
 The Morrison Game Factory | 1-4 | 240 | 2.2 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Brass: Lancashire | 2-4 | 120 | 3.8 | 8.2 | 0 | 4 | Chaining, End Game Bonuses, Hand Management, Income, Loans, Market, Multi-Use Cards, Network and Route Building
 La Granja: Deluxe Master Set | 1-4 | 120 | 3.5 | 8.2 | 0 | 3 | Action Drafting, Area Majority / Influence, Automatic Resource Growth, Contracts, Dice Rolling, Hand Management, Income, Market
 Cozy Stickerville | 1-6 | 30 | 1.2 | 8.2 | 0 | 2 | Cooperative Game, Legacy Game, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Solo / Solitaire Game
+Níjar | 1-4 | 120 | 3.2 | 8.2 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
 Sherlock Holmes Consulting Detective: The Baker Street Irregulars | 1-8 | 90 | 2.3 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Narrative Choice / Paragraph, Storytelling
 The Castles of Burgundy | 2-4 | 90 | 3.0 | 8.2 | 0 | 2 | Delayed Purchase, Dice Rolling, End Game Bonuses, Grid Coverage, Hexagon Grid, Open Drafting, Pattern Building, Tile Placement
 Barrage | 1-4 | 180 | 4.1 | 8.1 | 0 | 4 | Contracts, End Game Bonuses, Income, Network and Route Building, Ownership, Solo / Solitaire Game, Turn Order: Stat-Based, Variable Player Powers
@@ -26,13 +26,14 @@ Sky Team | 2 | 20 | 2.0 | 8.1 | 0 | 2 | Communication Limits, Cooperative Game, 
 Lost Ruins of Arnak | 1-4 | 120 | 2.9 | 8.1 | 0 | 3 | Area Movement, Contracts, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Hand Management, Multi-Use Cards, Once-Per-Game Abilities
 Darwin's Journey | 1-4 | 120 | 3.9 | 8.1 | 0 | 3 | Contracts, Ownership, Pick-up and Deliver, Point to Point Movement, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Set-up
 Marrakesh | 2-4 | 120 | 3.5 | 8.1 | 0 | 3 | Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection
+Fly Away | 2-5 | 20 | 2.0 | 8.1 | 0 | 3,4 | ?
 Revive | 1-4 | 120 | 3.5 | 8.0 | 0 | 3 | Deck, Bag, and Pool Building, Hexagon Grid, Map Addition, Network and Route Building, Open Drafting, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers
 A Wild Venture | 2 | 60 | 2.6 | 8.0 | 0 | 2 | Hand Management, Memory, Point to Point Movement, Set Collection, Track Movement
 Bomb Busters | 2-5 | 30 | 2.0 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Deduction, Memory, Once-Per-Game Abilities, Real-Time, Scenario / Mission / Campaign Game, Sudden Death Ending
 Gibboni | 3-9 | 30 | ? | 8.0 | 0 | ? | ?
 Wingspan | 1-5 | 70 | 2.5 | 8.0 | 0 | 3 | Action Queue, Dice Rolling, End Game Bonuses, Hand Management, Open Drafting, Set Collection, Solo / Solitaire Game, Turn Order: Progressive
-The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game | 1-4 | 20 | 1.9 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Scenario / Mission / Campaign Game, Trick-taking
 Forest Shuffle: Smoky Mountains | 2-5 | 60 | 2.3 | 8.0 | 0 | 2,3 | End Game Bonuses, Hand Management, Layering, Multi-Use Cards, Open Drafting, Set Collection
+The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game | 1-4 | 20 | 1.9 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Scenario / Mission / Campaign Game, Trick-taking
 The White Castle | 1-4 | 80 | 3.1 | 8.0 | 0 | 3 | Action Drafting, Area Movement, Dice Rolling, End Game Bonuses, Income, Melding and Splaying, Multi-Use Cards, Open Drafting
 Dorfromantik: Sakura | 1-6 | 90 | 1.9 | 8.0 | 0 | 2 | Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement
 Grand Austria Hotel | 2-4 | 120 | 3.2 | 8.0 | 0 | 2 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Set Collection, Turn Order: Progressive, Variable Set-up
@@ -41,35 +42,34 @@ Clans of Caledonia | 1-4 | 120 | 3.5 | 7.9 | 0 | 4 | Commodity Speculation, Cont
 Orapa Space | 2-5 | 25 | 1.9 | 7.9 | 0 | 2 | Deduction
 Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.6 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
 Marco Polo II: In the Service of the Khan | 2-4 | 120 | 3.4 | 7.9 | 0 | 3 | Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Turn Order: Stat-Based, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
+Courtroom: The Noir Trilogy | 2-6 | 90 | 1.0 | 7.9 | 0 | 6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
 Ministry of Lost Things: Case 1 – Lint Condition | 1-4 | 180 | 2.6 | 7.9 | 0 | 1,2 | Cooperative Game, Deduction, Solo / Solitaire Game
--60° | 1-4 | 180 | 3.7 | 7.9 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
 Res Arcana Duo | 2 | 60 | 2.7 | 7.9 | 0 | 2 | Hand Management, Open Drafting, Variable Player Powers
 Newton & Great Discoveries | 1-4 | 90 | 3.1 | 7.9 | 0 | 1,2,3 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Open Drafting, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement
-Courtroom: The Noir Trilogy | 2-6 | 90 | 1.0 | 7.9 | 0 | 6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
 Agricola | 1-5 | 150 | 3.6 | 7.9 | 0 | 3,4 | Automatic Resource Growth, Closed Drafting, Enclosure, Increase Value of Unchosen Resources, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement
 Hidden Games Crime Scene: The Midnight Crown | 1-6 | 150 | 2.0 | 7.8 | 0 | 2,3 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game
 Tzolk'in: The Mayan Calendar | 2-4 | 90 | 3.7 | 7.8 | 0 | 4 | Bias, End Game Bonuses, Once-Per-Game Abilities, Track Movement, Turn Order: Claim Action, Worker Placement
 Mombasa | 2-4 | 150 | 3.9 | 7.8 | 0 | 4 | Action Queue, Area Majority / Influence, Deck, Bag, and Pool Building, Hand Management, Investment, Open Drafting, Simultaneous Action Selection, Stock Holding
-Drillers | 1-4 | 120 | 2.7 | 7.8 | 0 | 2 | Area Movement, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Multi-Use Cards, Open Drafting, Resource to Move, Solo / Solitaire Game
 Lorenzo il Magnifico | 2-4 | 120 | 3.3 | 7.8 | 0 | 3,4 | Contracts, Dice Rolling, End Game Bonuses, Open Drafting, Turn Order: Claim Action, Variable Set-up, Worker Placement, Worker Placement with Dice Workers
+Drillers | 1-4 | 120 | 2.7 | 7.8 | 0 | 2 | Area Movement, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Multi-Use Cards, Open Drafting, Resource to Move, Solo / Solitaire Game
 The Druids of Edora | 2-4 | 90 | 3.1 | 7.8 | 0 | 3,4 | Area Majority / Influence, Contracts, Dice Rolling, Worker Placement with Dice Workers
 Quacks | 2-4 | 45 | 1.9 | 7.8 | 0 | 4 | Catch the Leader, Deck, Bag, and Pool Building, Delayed Purchase, Dice Rolling, Die Icon Resolution, Events, Neighbor Scope, Push Your Luck
 Everdell Farshore | 1-4 | 80 | 2.8 | 7.8 | 0 | 2,3 | Hand Management, Open Drafting, Set Collection, Worker Placement
 Yokohama | 2-4 | 90 | 3.3 | 7.8 | 0 | 3 | Contracts, End Game Bonuses, Grid Movement, Modular Board, Network and Route Building, Set Collection, Variable Set-up, Worker Placement
-Unlock!: Risky Adventures | 1-6 | 120 | 2.2 | 7.8 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling
+-60° | 1-4 | 180 | 3.7 | 7.8 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
 El Grande | 2-5 | 120 | 2.9 | 7.8 | 0 | 5 | Action Drafting, Area Majority / Influence, Auction / Bidding, Hand Management, Open Drafting, Selection Order Bid, Simultaneous Action Selection, Take That
-Fly Away | 2-5 | 20 | 2.0 | 7.8 | 0 | 3,4 | ?
+Unlock!: Risky Adventures | 1-6 | 120 | 2.2 | 7.8 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling
 SCOUT | 2-5 | 20 | 1.4 | 7.8 | 0 | 4 | Hand Management, Ladder Climbing, Score-and-Reset Game
 Rebirth | 2-4 | 60 | 2.0 | 7.8 | 0 | 3 | Area Majority / Influence, Contracts, End Game Bonuses, Hexagon Grid, Tile Placement
 Five Tribes: The Djinns of Naqala | 2-4 | 80 | 2.8 | 7.8 | 0 | 2 | Auction / Bidding, Constrained Bidding, End Game Bonuses, Hidden Victory Points, Mancala, Modular Board, Set Collection, Square Grid
 The Voyages of Marco Polo | 2-4 | 100 | 3.2 | 7.8 | 0 | 4 | Contracts, Dice Rolling, End Game Bonuses, Point to Point Movement, Resource to Move, Turn Order: Claim Action, Variable Player Powers, Variable Set-up
-Profiler: The Ghosts Of Brandonsbury | 1-6 | 120 | 1.5 | 7.8 | 0 | 2 | Cooperative Game, Deduction
 Wayfarers of the South Tigris | 1-4 | 90 | 3.8 | 7.8 | 0 | 2 | Area Majority / Influence, End Game Bonuses, Modular Board, Open Drafting, Race, Set Collection, Solo / Solitaire Game, Tags
-Come Sail Away! | 1-4 | 25 | 2.0 | 7.7 | 0 | 2,3 | Closed Drafting, Mancala, Modular Board, Simultaneous Action Selection
+Profiler: The Ghosts Of Brandonsbury | 1-6 | 120 | 1.5 | 7.8 | 0 | 2 | Cooperative Game, Deduction
+Beasty Council | 2-4 | 20 | ? | 7.8 | 0 | ? | Hand Management, Open Drafting, Set Collection
 Trajan | 2-4 | 120 | 3.6 | 7.7 | 0 | 4 | Area Movement, Hand Management, Mancala, Open Drafting, Set Collection
+Come Sail Away! | 1-4 | 25 | 2.0 | 7.7 | 0 | 2,3 | Closed Drafting, Mancala, Modular Board, Simultaneous Action Selection
 Kutná Hora: The City of Silver | 2-4 | 120 | 3.3 | 7.7 | 0 | 3,4 | Action Queue, Events, Hand Management, Market, Multi-Use Cards, Square Grid, Tile Placement, Turn Order: Progressive
 Hidden Games Tatort: Ein Drahtseilakt | 1-6 | 180 | 2.0 | 7.7 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game
-Elementica | 1-4 | 100 | 3.3 | 7.7 | 0 | 2,3 | ?
 Lords of Waterdeep | 2-5 | 120 | 2.4 | 7.7 | 0 | 3,4 | Contracts, Hidden Roles, Increase Value of Unchosen Resources, Ownership, Set Collection, Take That, Turn Order: Claim Action, Worker Placement
 Indagini Minute | 1-10 | 90 | 2.5 | 7.7 | 0 | 1,2,3,4,5,6,7,8,9,10 | Deduction
 Russian Railroads | 2-4 | 120 | 3.4 | 7.7 | 0 | 4 | End Game Bonuses, Tech Trees / Tech Tracks, Turn Order: Claim Action, Worker Placement
@@ -78,13 +78,14 @@ Imperial Steam | 2-4 | 120 | 4.2 | 7.7 | 0 | 4 | Action Points, Contracts, Delay
 Azul | 2-4 | 45 | 1.8 | 7.7 | 0 | 2 | End Game Bonuses, Grid Coverage, Open Drafting, Pattern Building, Set Collection, Square Grid, Tile Placement, Turn Order: Claim Action
 Puerto Rico 1897 | 2-5 | 120 | 3.0 | 7.7 | 0 | 4 | Action Drafting, End Game Bonuses, Follow, Hidden Victory Points, Increase Value of Unchosen Resources, Turn Order: Progressive, Variable Phase Order
 Troyes | 1-4 | 90 | 3.4 | 7.7 | 0 | 3 | Area Majority / Influence, Dice Rolling, End Game Bonuses, Events, Hidden Roles, Hidden Victory Points, Income, Ownership
+Elementica | 1-4 | 100 | 3.3 | 7.7 | 0 | 2,3 | ?
+Pilgrims: Curious Adventures | 1-4 | 45 | 2.2 | 7.7 | 0 | 3 | Contracts, End Game Bonuses, Grid Movement, Pattern Movement, Set Collection, Solo / Solitaire Game
 Anno 1800: The Board Game | 2-4 | 120 | 3.1 | 7.7 | 0 | 3 | Contracts, End Game Bonuses, Hand Management, Hidden Victory Points, Income, Market, Modular Board, Once-Per-Game Abilities
 Windmill Valley | 1-4 | 90 | 3.1 | 7.7 | 0 | 3 | End Game Bonuses, Market, Multi-Use Cards, Network and Route Building, Rondel, Solo / Solitaire Game, Variable Player Powers, Variable Set-up
-Pilgrims: Curious Adventures | 1-4 | 45 | 2.2 | 7.7 | 0 | 3 | Contracts, End Game Bonuses, Grid Movement, Pattern Movement, Set Collection, Solo / Solitaire Game
 Castle Combo | 2-5 | 25 | 1.7 | 7.7 | 0 | 2 | End Game Bonuses, Open Drafting, Set Collection, Tags, Tile Placement
 The Red Cathedral | 1-4 | 80 | 2.8 | 7.7 | 0 | 3 | Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Rondel, Solo / Solitaire Game, Victory Points as a Resource
-Now or Never | 1-4 | 180 | 3.6 | 7.6 | 0 | 2 | Action Drafting, Hand Management, Narrative Choice / Paragraph, Solo / Solitaire Game, Tile Placement, Variable Player Powers
 Sanctuary | 1-5 | 100 | 2.8 | 7.6 | 0 | 2,3 | Action Queue, Hand Management, Hexagon Grid, Open Drafting, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up
+Now or Never | 1-4 | 180 | 3.6 | 7.6 | 0 | 2 | Action Drafting, Hand Management, Narrative Choice / Paragraph, Solo / Solitaire Game, Tile Placement, Variable Player Powers
 Sagrada Artisans | 2-4 | 60 | 2.5 | 7.6 | 0 | 2 | Dice Rolling, End Game Bonuses, Grid Coverage, Legacy Game, Open Drafting, Paper-and-Pencil, Pattern Building, Scenario / Mission / Campaign Game
 Galileo Galilei | 1-4 | 100 | 3.0 | 7.6 | 0 | 3 | Area Majority / Influence, End Game Bonuses, Rondel, Variable Set-up
 Fashion | 2-5 | 15 | ? | 7.6 | 0 | ? | Auction / Bidding, Hand Management
@@ -92,38 +93,37 @@ Everdell Duo | 1-2 | 30 | 2.7 | 7.6 | 0 | 2 | Contracts, Cooperative Game, Incom
 Lacrimosa | 1-4 | 90 | 3.2 | 7.6 | 0 | 3 | Area Majority / Influence, Deck, Bag, and Pool Building, End Game Bonuses, Movement Points, Multi-Use Cards, Open Drafting
 The Isle of Cats | 1-4 | 90 | 2.4 | 7.6 | 0 | 3 | Closed Drafting, Grid Coverage, Hidden Victory Points, Income, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game
 World Wonders | 1-5 | 70 | 2.3 | 7.6 | 0 | 3 | Action Points, Grid Coverage, Loans, Open Drafting, Solo / Solitaire Game, Square Grid, Tile Placement
-Boonlake | 1-4 | 160 | 3.8 | 7.6 | 0 | 3 | End Game Bonuses, Follow, Hexagon Grid, Income, Map Addition, Multi-Use Cards, Point to Point Movement, Solo / Solitaire Game
 Perspectives Blue | 2-6 | 90 | 1.6 | 7.6 | 0 | 3,4 | Communication Limits, Cooperative Game, Deduction
-The Hobbit: There & Back Again | 1-4 | 30 | 1.8 | 7.6 | 0 | 2,3 | Connections, Dice Rolling, Open Drafting, Paper-and-Pencil, Solo / Solitaire Game
+Boonlake | 1-4 | 160 | 3.8 | 7.6 | 0 | 3 | End Game Bonuses, Follow, Hexagon Grid, Income, Map Addition, Multi-Use Cards, Point to Point Movement, Solo / Solitaire Game
 Coimbra | 2-4 | 90 | 3.2 | 7.6 | 0 | 3 | Action Drafting, Auction / Bidding, Dice Rolling, End Game Bonuses, Income, Open Drafting, Point to Point Movement, Set Collection
+The Hobbit: There & Back Again | 1-4 | 30 | 1.8 | 7.6 | 0 | 2,3 | Connections, Dice Rolling, Open Drafting, Paper-and-Pencil, Solo / Solitaire Game
 So Clover! | 3-6 | 30 | 1.1 | 7.6 | 0 | 3,4 | Communication Limits, Cooperative Game
-Raindrops | 2-4 | 45 | ? | 7.6 | 0 | ? | End Game Bonuses, Pattern Recognition, Set Collection
 The King Is Dead: Second Edition | 2-4 | 45 | 2.2 | 7.6 | 0 | 3 | Area Majority / Influence, Campaign / Battle Card Driven, Communication Limits, Hand Management, Map Reduction, Memory, Stock Holding, Variable Set-up
-EXIT: The Game – Advent Calendar: The Intergalactic Race | 1-99 | 45 | 2.0 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Dorfromantik: The Board Game | 1-6 | 60 | 1.6 | 7.6 | 0 | 1,2 | Area Majority / Influence, Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement, Variable Set-up
+EXIT: The Game – Advent Calendar: The Intergalactic Race | 1-99 | 45 | 2.0 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Patchwork | 2 | 30 | 1.6 | 7.6 | 0 | 2 | Grid Coverage, Income, Open Drafting, Rondel, Square Grid, Tile Placement, Turn Order: Stat-Based, Turn Order: Time Track
-Garden | 2-5 | 15 | ? | 7.6 | 0 | ? | Set Collection
 The Taverns of Tiefenthal | 2-4 | 60 | 2.7 | 7.6 | 0 | 2,3 | Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Turn Order: Progressive, Worker Placement, Worker Placement with Dice Workers
-Prague Unseen | 1-4 | 120 | 3.2 | 7.6 | 0 | 3,4 | Area Majority / Influence, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types
-Unlock!: Extraordinary Adventures | 1-6 | 90 | 2.2 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Storytelling
+Garden | 2-5 | 15 | ? | 7.6 | 0 | ? | Set Collection
+Kalypso | 1-4 | 60 | 2.4 | 7.6 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
 In the Year of the Dragon: 10th Anniversary | 2-5 | 100 | 2.9 | 7.6 | 0 | 4,5 | Action Drafting, Events, Hand Management, Turn Order: Stat-Based
-Behind | 1-99 | 90 | 1.7 | 7.6 | 0 | 2 | Cooperative Game, Deduction
+Unlock!: Extraordinary Adventures | 1-6 | 90 | 2.2 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Storytelling
 Let's Go! To Japan | 1-4 | 60 | 2.3 | 7.6 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Melding and Splaying, Multi-Use Cards, Set Collection, Simultaneous Action Selection
 Woodcraft | 1-4 | 120 | 3.8 | 7.6 | 0 | 3 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Income, Rondel, Solo / Solitaire Game
 Bora Bora | 2-4 | 120 | 3.7 | 7.6 | 0 | 4 | Dice Rolling, Set Collection, Worker Placement, Worker Placement with Dice Workers
+Behind | 1-99 | 90 | 1.7 | 7.6 | 0 | 2 | Cooperative Game, Deduction
 Azul: Summer Pavilion | 2-4 | 45 | 2.1 | 7.6 | 0 | 2,3 | End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action
+Prague Unseen | 1-4 | 120 | 3.2 | 7.6 | 0 | 3,4 | Area Majority / Influence, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types
 That's Pretty Clever! | 1-4 | 30 | 1.9 | 7.5 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
-Near: Echoes of Civilizations | 2-4 | 120 | 3.4 | 7.5 | 0 | 2,3,4 | Campaign / Battle Card Driven, Events, Grid Movement, Hand Management, Hexagon Grid, Multi-Use Cards, Set Collection
 The Gang | 3-6 | 20 | 1.6 | 7.5 | 0 | 5 | Communication Limits, Cooperative Game, Deduction, Predictive Bid
 Cooper Island | 1-4 | 120 | 4.2 | 7.5 | 0 | 3 | Income, Layering, Tile Placement, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types
 Tea Garden | 2-4 | 120 | 3.1 | 7.5 | 0 | 3 | Automatic Resource Growth, Deck, Bag, and Pool Building, End Game Bonuses
 Mindbug: First Contact | 2 | 25 | 1.9 | 7.5 | 0 | 2 | Hand Management, Take That
 Faraway | 2-6 | 25 | 2.0 | 7.5 | 0 | 2,3 | Constrained Bidding, End Game Bonuses, Hand Management, Open Drafting, Selection Order Bid, Set Collection, Simultaneous Action Selection, Tags
-Opera Magna | 2-4 | 60 | 3.1 | 7.5 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
 Medical Mysteries: NYC Emergency Room | 1-4 | 60 | 2.1 | 7.5 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game
-Kalypso | 1-4 | 60 | 2.4 | 7.5 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
+Raindrops | 2-4 | 45 | ? | 7.5 | 0 | ? | End Game Bonuses, Pattern Recognition, Set Collection
 Port Royal: Big Box | 1-5 | 50 | 1.8 | 7.5 | 0 | 3,4 | Contracts, Cooperative Game, Move Through Deck, Open Drafting, Push Your Luck, Set Collection, Solo / Solitaire Game
 Codenames | 2-8 | 15 | 1.3 | 7.5 | 0 | 6,8 | Communication Limits, Deduction, Memory, Race, Team-Based Game
+Near: Echoes of Civilizations | 2-4 | 120 | 3.4 | 7.5 | 0 | 2,3,4 | Campaign / Battle Card Driven, Events, Grid Movement, Hand Management, Hexagon Grid, Multi-Use Cards, Set Collection
 Arborea | 1-5 | 120 | 3.7 | 7.5 | 0 | 2,3 | Bias, End Game Bonuses, Slide / Push, Solo / Solitaire Game, Tile Placement, Track Movement, Variable Set-up, Worker Placement
 Notre Dame: 10th Anniversary | 2-5 | 75 | 2.5 | 7.5 | 0 | 3 | Area Majority / Influence, Open Drafting, Point to Point Movement
 Hitster | 2-10 | 30 | 1.0 | 7.5 | 0 | 4,5,6 | Ordering
@@ -133,84 +133,85 @@ Golem | 1-4 | 120 | 4.0 | 7.5 | 0 | 2,3 | Action Drafting, Income, Set Collectio
 Castles of Mad King Ludwig | 1-4 | 90 | 2.6 | 7.5 | 0 | 4 | End Game Bonuses, Hidden Victory Points, I Cut, You Choose, Increase Value of Unchosen Resources, Pattern Building, Set Collection, Tile Placement, Turn Order: Progressive
 Duel for Cardia | 2-4 | 15 | 1.8 | 7.5 | 0 | 2 | Hand Management, Simultaneous Action Selection
 Carpe Diem | 2-4 | 75 | 2.5 | 7.5 | 0 | 3 | Area Movement, Contracts, End Game Bonuses, Open Drafting, Tile Placement, Turn Order: Progressive, Variable Set-up
-Messina 1347 | 1-4 | 140 | 3.6 | 7.5 | 0 | 3 | Grid Movement, Income, Modular Board, Solo / Solitaire Game, Track Movement, Variable Player Powers, Variable Set-up, Worker Placement
 Village | 2-4 | 90 | 3.1 | 7.5 | 0 | 4 | Area Majority / Influence, Contracts, Set Collection, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types
-Koi | 1-4 | 45 | 2.0 | 7.5 | 0 | 3 | Contracts, End Game Bonuses, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement
+Messina 1347 | 1-4 | 140 | 3.6 | 7.5 | 0 | 3 | Grid Movement, Income, Modular Board, Solo / Solitaire Game, Track Movement, Variable Player Powers, Variable Set-up, Worker Placement
+Opera Magna | 2-4 | 60 | 3.1 | 7.5 | 0 | 2 | Action / Event, Market, Multi-Use Cards, Worker Placement
 Botanik | 2 | 30 | 1.8 | 7.5 | 0 | 2 | End Game Bonuses, Modular Board, Network and Route Building, Open Drafting, Pattern Building, Set Collection, Square Grid, Take That
+Koi | 1-4 | 45 | 2.0 | 7.5 | 0 | 3 | Contracts, End Game Bonuses, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement
 Kronologic: Paris 1920 | 1-4 | 30 | 2.1 | 7.5 | 0 | ? | Deduction, Grid Movement, Paper-and-Pencil, Point to Point Movement, Race
+해녀: Sea Divers of Jeju | 2-5 | 40 | 1.8 | 7.5 | 0 | 4 | Area Movement, Highest-Lowest Scoring, Multi-Use Cards, Push Your Luck, Set Collection, Simultaneous Action Selection, Variable Set-up, Worker Placement
 Trolls and Princesses | 2-4 | 120 | 3.3 | 7.5 | 0 | 3,4 | Action Points, Hand Management, Set Collection, Tile Placement, Worker Placement
 The Magnificent | 1-4 | 90 | 3.1 | 7.5 | 0 | ? | Contracts, Dice Rolling, End Game Bonuses, Grid Coverage, Movement Points, Open Drafting, Set Collection, Solo / Solitaire Game
 Alla Ricerca del Drago | 1-5 | 20 | 1.0 | 7.5 | 0 | 1,2 | Cooperative Game, Storytelling
 Santa Maria | 1-4 | 90 | 3.0 | 7.5 | 0 | 3 | Dice Rolling, Network and Route Building, Open Drafting, Set Collection, Tile Placement, Variable Player Powers
 Art Society | 2-4 | 60 | 1.9 | 7.5 | 0 | 4 | Auction / Bidding, Auction: Sealed Bid, Constrained Bidding, End Game Bonuses, Grid Coverage, Open Drafting, Pattern Building, Selection Order Bid
 Daitoshi | 1-4 | 120 | 4.0 | 7.4 | 0 | 3 | Follow, Modular Board, Once-Per-Game Abilities, Rondel, Variable Set-up, Worker Placement
-Akropolis | 1-4 | 30 | 1.8 | 7.4 | 0 | 3 | Auction: Dutch, End Game Bonuses, Layering, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement, Turn Order: Progressive
 Rumble Nation | 2-4 | 40 | 1.8 | 7.4 | 0 | 4 | Area Majority / Influence, Dice Rolling, Once-Per-Game Abilities, Re-rolling and Locking
+Akropolis | 1-4 | 30 | 1.8 | 7.4 | 0 | 3 | Auction: Dutch, End Game Bonuses, Layering, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement, Turn Order: Progressive
 East India Companies | 2-4 | 120 | 3.0 | 7.4 | 0 | 4 | Investment, Market, Pick-up and Deliver, Stock Holding, Turn Order: Stat-Based, Worker Placement
-해녀: Sea Divers of Jeju | 2-5 | 40 | 1.8 | 7.4 | 0 | 4 | Area Movement, Highest-Lowest Scoring, Multi-Use Cards, Push Your Luck, Set Collection, Simultaneous Action Selection, Variable Set-up, Worker Placement
+Eldertide: A Thousand Lights | 1-5 | 120 | 2.8 | 7.4 | 0 | 3 | Area Movement, Betting and Bluffing, Contracts, End Game Bonuses, Grid Movement, Modular Board, Pick-up and Deliver, Resource to Move
 Amerigo | 2-4 | 90 | 3.0 | 7.4 | 0 | 4 | Action Points, Area Majority / Influence, Cube Tower, Grid Coverage, Grid Movement, Modular Board, Movement Points, Open Drafting
 Bruges | 2-4 | 60 | 2.8 | 7.4 | 0 | 3,4 | Dice Rolling, Hand Management, Multi-Use Cards
-Eldertide: A Thousand Lights | 1-5 | 120 | 2.8 | 7.4 | 0 | 3 | Area Movement, Betting and Bluffing, Contracts, End Game Bonuses, Grid Movement, Modular Board, Pick-up and Deliver, Resource to Move
 Splendor | 2-4 | 30 | 1.8 | 7.4 | 0 | 3 | Contracts, Open Drafting, Race, Set Collection
 Mille Fiori | 2-4 | 90 | 2.2 | 7.4 | 0 | 4 | Area Majority / Influence, Closed Drafting, Pattern Building
 1923 Cotton Club | 2-4 | 60 | 2.2 | 7.4 | 0 | 3 | Events, Open Drafting, Worker Placement
 Disney Lorcana: Illumineer's Quest – Deep Trouble | 1-2 | 60 | 2.6 | 7.4 | 0 | 1,2 | Cooperative Game, Deck Construction, Solo / Solitaire Game
-Medico | 2-4 | 90 | 2.8 | 7.4 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
 Twice as Clever! | 1-4 | 30 | 2.3 | 7.4 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
 Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3,4 | Grid Movement, Set Collection
 Codenames: Duet | 2 | 30 | 1.4 | 7.4 | 0 | 2 | Communication Limits, Cooperative Game, Memory
 Macao | 2-4 | 100 | 3.1 | 7.4 | 0 | 3 | Action Points, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Pick-up and Deliver, Set Collection
+First Class: All Aboard the Orient Express! | 2-4 | 80 | 2.8 | 7.4 | 0 | 4 | Open Drafting, Set Collection, Variable Set-up
 Rising Cultures | 2 | 45 | 2.9 | 7.4 | 0 | 2 | Multi-Use Cards
 Bella Vista | 2-4 | 45 | 2.1 | 7.4 | 0 | 2,4 | End Game Bonuses, Turn Order: Auction
-First Class: All Aboard the Orient Express! | 2-4 | 80 | 2.8 | 7.4 | 0 | 4 | Open Drafting, Set Collection, Variable Set-up
 Nova Lectio: Status | 2-4 | 45 | 2.7 | 7.4 | 0 | ? | Area Majority / Influence, Auction / Bidding, Open Drafting, Set Collection, Worker Placement
 Pharaon | 1-5 | 75 | 2.7 | 7.4 | 0 | 1,2,3 | Modular Board, Rondel, Solo / Solitaire Game, Variable Player Powers, Variable Set-up, Worker Placement
 Rival Cities | 2 | 45 | 2.5 | 7.4 | 0 | 2 | Rondel, Sudden Death Ending, Tug of War
-Villa | 2-4 | 20 | ? | 7.4 | 0 | ? | ?
 Chicken Crimes: il mistero del Dom Gallignon | 1-8 | 120 | 2.5 | 7.4 | 0 | ? | Deduction
 Botanicus | 2-4 | 60 | 2.4 | 7.4 | 0 | 3 | Action Drafting, Grid Coverage, Grid Movement, Modular Board, Resource to Move, Set Collection, Tile Placement, Turn Order: Stat-Based
 Æterna | 2-4 | 120 | 3.1 | 7.4 | 0 | 4 | Area Majority / Influence, Hand Management, Worker Placement
+Hitster: Rock | 2-10 | 60 | 1.0 | 7.4 | 0 | 3,4 | ?
 Top Ten | 4-9 | 30 | 1.1 | 7.4 | 0 | 6,7,8 | Cooperative Game, Deduction, Ordering, Player Judge, Targeted Clues
 Dossiers Criminels: Le Secret des Yakuzas | 1-6 | 120 | 2.0 | 7.4 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game
 Khôra: Rise of an Empire | 2-4 | 75 | 2.7 | 7.4 | 0 | 4 | Dice Rolling, Income, Investment, Open Drafting, Race, Simultaneous Action Selection, Tech Trees / Tech Tracks
 Il Gatto e la Torre | 1-5 | 30 | 1.3 | 7.3 | 0 | 2,3,4 | Cooperative Game, Multi-Use Cards, Solo / Solitaire Game, Stacking and Balancing, Three Dimensional Movement
 In the Footsteps of Darwin | 2-5 | 30 | 1.7 | 7.3 | 0 | 3,4 | End Game Bonuses, Grid Coverage, Layering, Open Drafting, Pattern Building, Rondel, Square Grid, Tile Placement
-Hitster: Rock | 2-10 | 60 | 1.0 | 7.3 | 0 | 3,4 | ?
 Viaggio nella Terra del Sole | 1-5 | 20 | 1.0 | 7.3 | 0 | 1,2,3 | Cooperative Game, Storytelling
 Above and Below | 2-4 | 90 | 2.5 | 7.3 | 0 | 3 | Action Points, Dice Rolling, Narrative Choice / Paragraph, Set Collection, Storytelling, Trading, Turn Order: Progressive
+Villa | 2-4 | 20 | ? | 7.3 | 0 | ? | ?
 Set & Match | 2-4 | 30 | 1.2 | 7.3 | 0 | 2 | Flicking, Simulation, Tug of War
-Borealis: Arctic Expeditions | 2-4 | 45 | 2.4 | 7.3 | 0 | 3 | End Game Bonuses, Hand Management, Open Drafting, Pattern Recognition, Race, Set Collection, Slide / Push, Track Movement
-Tikal | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Action Points, Area Majority / Influence, Auction / Bidding, Events, Grid Movement, Hexagon Grid, Kill Steal, Layering
 YRO | 1-5 | 30 | 2.0 | 7.3 | 0 | 3,4 | Hand Management, Push Your Luck, Set Collection
+Tikal | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Action Points, Area Majority / Influence, Auction / Bidding, Events, Grid Movement, Hexagon Grid, Kill Steal, Layering
+Medico | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
 La Mia Prima Adventura: Il Tesoro di Atlantide | 1-2 | 20 | 1.0 | 7.3 | 0 | 1,2 | Cooperative Game, Storytelling
+Borealis: Arctic Expeditions | 2-4 | 45 | 2.4 | 7.3 | 0 | 3 | End Game Bonuses, Hand Management, Open Drafting, Pattern Recognition, Race, Set Collection, Slide / Push, Track Movement
 Prospect Detective: Caso 0090 – La carpa di via Catamone | 1-99 | 150 | ? | 7.3 | 0 | ? | Cooperative Game, Deduction
 Tribes of the Wind | 2-5 | 90 | 2.7 | 7.3 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Grid Coverage, Hand Management, Movement Points, Neighbor Scope, Race
-Knitting Circle | 1-4 | 45 | 2.1 | 7.3 | 0 | 2 | Chaining, Contracts, End Game Bonuses, Market, Matching, Open Drafting, Pattern Building, Rondel
 Kingdomino | 2-4 | 25 | 1.2 | 7.3 | 0 | 2,4 | Enclosure, Matching, Open Drafting, Tile Placement, Turn Order: Claim Action
+Knitting Circle | 1-4 | 45 | 2.1 | 7.3 | 0 | 2 | Chaining, Contracts, End Game Bonuses, Market, Matching, Open Drafting, Pattern Building, Rondel
+Suspects: Claire Harper, Eternal Investigator | 1-6 | 90 | 2.3 | 7.3 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Time's Up! | 4-18 | 90 | 1.2 | 7.3 | 0 | 6,8 | Acting, Communication Limits, Memory, Team-Based Game
 Luna | 1-4 | 100 | 3.3 | 7.3 | 0 | 4 | Area Majority / Influence, Modular Board, Point to Point Movement, Solo / Solitaire Game, Tile Placement, Worker Placement
-Suspects: Claire Harper, Eternal Investigator | 1-6 | 90 | 2.3 | 7.3 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Roam | 2-4 | 45 | 1.8 | 7.3 | 0 | 3 | Action Retrieval, Area Majority / Influence, Auction Compensation, Grid Coverage, Square Grid
-Courtisans | 2-5 | 30 | 1.3 | 7.3 | 0 | 4 | End Game Bonuses, Set Collection, Take That
 Lost Cities | 2 | 30 | 1.5 | 7.3 | 0 | 2 | Hand Management, Melding and Splaying, Ordering, Push Your Luck, Score-and-Reset Game, Set Collection
-Spectacular | 1-6 | 30 | 2.3 | 7.3 | 0 | 3,4 | Closed Drafting, Dice Rolling, End Game Bonuses, Hexagon Grid, Pattern Building, Simultaneous Action Selection, Solo / Solitaire Game, Tile Placement
+Courtisans | 2-5 | 30 | 1.3 | 7.3 | 0 | 4 | End Game Bonuses, Set Collection, Take That
 Formula 5 | 2-5 | 15 | 1.0 | 7.3 | 0 | 5 | Hand Management
-Verdant | 1-5 | 60 | 2.1 | 7.3 | 0 | 2,3 | Increase Value of Unchosen Resources, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up
 The Pillars of the Earth | 2-4 | 120 | 2.8 | 7.3 | 0 | 4 | Events, Market, Turn Order: Claim Action, Turn Order: Random, Worker Placement, Worker Placement, Different Worker Types
-Last Lantern | 2-4 | 30 | 2.0 | 7.3 | 0 | ? | Communication Limits, Cooperative Game, Deck, Bag, and Pool Building, Set Collection, Tile Placement
-AquaSphere | 2-4 | 100 | 3.7 | 7.2 | 0 | 4 | Area Majority / Influence, Area Movement, End Game Bonuses, Income, Modular Board, Once-Per-Game Abilities, Open Drafting, Tech Trees / Tech Tracks
-Suspects: Claire Harper Takes the Stage | 1-6 | 90 | 1.9 | 7.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
-dnup | 2-5 | 20 | 1.3 | 7.2 | 0 | 4 | Hand Management, Ladder Climbing
-Arboretum | 2-4 | 30 | 2.1 | 7.2 | 0 | 2 | Connections, Hand Management, Move Through Deck, Open Drafting, Ordering, Pattern Building, Set Collection, Square Grid
-Tiwanaku | 1-4 | 60 | 2.2 | 7.2 | 0 | ? | Cooperative Game, Deduction, Grid Movement, Modular Board, Solo / Solitaire Game
-Tabannusi: Builders of Ur | 1-4 | 120 | 3.9 | 7.2 | 0 | 3,4 | Action Queue, Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Open Drafting, Ownership, Tile Placement
+Spectacular | 1-6 | 30 | 2.3 | 7.3 | 0 | 3,4 | Closed Drafting, Dice Rolling, End Game Bonuses, Hexagon Grid, Pattern Building, Simultaneous Action Selection, Solo / Solitaire Game, Tile Placement
+Verdant | 1-5 | 60 | 2.1 | 7.3 | 0 | 2,3 | Increase Value of Unchosen Resources, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up
 Bag & Snatch: Backyard Brawl | 1-5 | 15 | 1.5 | 7.2 | 0 | 4 | Deck, Bag, and Pool Building, Hidden Victory Points, Push Your Luck, Set Collection, Solo / Solitaire Game, Take That, Trick-taking
+Suspects: Claire Harper Takes the Stage | 1-6 | 90 | 1.9 | 7.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
+AquaSphere | 2-4 | 100 | 3.7 | 7.2 | 0 | 4 | Area Majority / Influence, Area Movement, End Game Bonuses, Income, Modular Board, Once-Per-Game Abilities, Open Drafting, Tech Trees / Tech Tracks
+Tiwanaku | 1-4 | 60 | 2.2 | 7.2 | 0 | ? | Cooperative Game, Deduction, Grid Movement, Modular Board, Solo / Solitaire Game
+Arboretum | 2-4 | 30 | 2.1 | 7.2 | 0 | 2 | Connections, Hand Management, Move Through Deck, Open Drafting, Ordering, Pattern Building, Set Collection, Square Grid
+dnup | 2-5 | 20 | 1.3 | 7.2 | 0 | 4 | Hand Management, Ladder Climbing
+Tabannusi: Builders of Ur | 1-4 | 120 | 3.9 | 7.2 | 0 | 3,4 | Action Queue, Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Open Drafting, Ownership, Tile Placement
 San Juan | 2-4 | 60 | 2.3 | 7.2 | 0 | 3 | Action Drafting, End Game Bonuses, Follow, Hand Management, Market, Multi-Use Cards, Open Drafting, Set Collection
+Last Lantern | 2-4 | 30 | 2.0 | 7.2 | 0 | ? | Communication Limits, Cooperative Game, Deck, Bag, and Pool Building, Set Collection, Tile Placement
 Shinjuku | 2-4 | 60 | 2.5 | 7.2 | 0 | 4 | Hand Management, Network and Route Building, Pick-up and Deliver, Point to Point Movement
 Carnuta | 2-4 | 25 | 1.7 | 7.2 | 0 | 2,3 | Delayed Purchase, Open Drafting, Set Collection, Tags
+Flower Fields | 1-4 | 40 | 2.0 | 7.2 | 0 | 3 | Grid Coverage, Increase Value of Unchosen Resources, Open Drafting, Tile Placement
 Quadropolis | 2-4 | 60 | 2.2 | 7.2 | 0 | 4 | End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Square Grid, Tile Placement, Worker Placement, Worker Placement, Different Worker Types
 The Castles of Tuscany | 2-4 | 60 | 2.2 | 7.2 | 0 | 2,3 | Grid Coverage, Hexagon Grid, Modular Board, Set Collection, Tile Placement, Variable Set-up
-Flower Fields | 1-4 | 40 | 2.0 | 7.2 | 0 | 3 | Grid Coverage, Increase Value of Unchosen Resources, Open Drafting, Tile Placement
 Codex Naturalis | 1-4 | 30 | 1.8 | 7.2 | 0 | 2,3 | End Game Bonuses, Hand Management, Layering, Open Drafting, Pattern Building
 EXIT: The Game – The Sinister Mansion | 1-4 | 90 | 2.5 | 7.2 | 0 | 2 | Cooperative Game
 Takenoko | 2-4 | 45 | 2.0 | 7.2 | 0 | 3 | Action Points, Contracts, Dice Rolling, Die Icon Resolution, End Game Bonuses, Grid Movement, Hexagon Grid, Modular Board
@@ -221,32 +222,31 @@ Murder at The Movie Theater | 1-99 | 120 | 2.0 | 7.2 | 0 | 2 | Cooperative Game,
 Dixit | 3-8 | 30 | 1.2 | 7.2 | 0 | 5,6 | Race, Simultaneous Action Selection, Singing, Storytelling, Targeted Clues, Voting
 Broom Service | 2-5 | 75 | 2.4 | 7.2 | 0 | 4,5 | Area Movement, Follow, Hand Management, Pick-up and Deliver, Set Collection, Simultaneous Action Selection, Variable Phase Order
 Charterstone | 1-6 | 75 | 2.9 | 7.2 | 0 | 6 | Catch the Leader, Hand Management, Legacy Game, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Worker Placement
-I C E | 1-5 | 120 | 2.8 | 7.2 | 0 | 3 | Action Points, Layering, Mancala, Modular Board, Worker Placement, Different Worker Types
 Best Movie | 2-5 | 15 | ? | 7.2 | 0 | ? | Deck Construction, Hand Management, Trick-taking
 Euphoria: Build a Better Dystopia | 2-6 | 60 | 3.1 | 7.2 | 0 | 4,5 | Dice Rolling, Hand Management, Race, Set Collection, Trading, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
+I C E | 1-5 | 120 | 2.8 | 7.1 | 0 | 3 | Action Points, Layering, Mancala, Modular Board, Worker Placement, Different Worker Types
 Potion Explosion | 2-4 | 45 | 1.8 | 7.1 | 0 | 3 | Contracts, Open Drafting, Pattern Recognition, Physical Removal, Set Collection, Take That, Variable Set-up
-Gloomies | 2-4 | 60 | 1.8 | 7.1 | 0 | 3 | Contracts, Set Collection
-Chamber of Wonders | 2-4 | 30 | 2.0 | 7.1 | 0 | 3 | Action Drafting, Auction / Bidding, Closed Drafting, Set Collection, Variable Set-up, Worker Placement
 Starship Captains | 1-4 | 100 | 2.4 | 7.1 | 0 | 3 | End Game Bonuses, Open Drafting, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up, Worker Placement, Different Worker Types
-Brushwood | 2-4 | 30 | 1.3 | 7.1 | 0 | 3,4 | Melding and Splaying
+Chamber of Wonders | 2-4 | 30 | 2.0 | 7.1 | 0 | 3 | Action Drafting, Auction / Bidding, Closed Drafting, Set Collection, Variable Set-up, Worker Placement
+Gloomies | 2-4 | 60 | 1.8 | 7.1 | 0 | 3 | Contracts, Set Collection
 Friday | 1 | 25 | 2.2 | 7.1 | 0 | 1 | Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Push Your Luck, Solo / Solitaire Game
-Beyond the Horizon | 2-4 | 120 | 3.4 | 7.1 | 0 | 3 | Area Majority / Influence, Map Addition, Ownership, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement, Worker Placement
 The Glorious Guilds of Buttonville | 2-4 | 30 | 1.7 | 7.1 | 0 | 3 | Set Collection
+Beyond the Horizon | 2-4 | 120 | 3.4 | 7.1 | 0 | 3 | Area Majority / Influence, Map Addition, Ownership, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement, Worker Placement
 Live Mission Game: The Heist – Crime Does Pay | 1-5 | 120 | 2.0 | 7.1 | 0 | 2 | Cooperative Game, Deduction, Team-Based Game
 EXIT: The Game – The Haunted Roller Coaster | 1-4 | 90 | 2.0 | 7.1 | 0 | 2 | Cooperative Game, Real-Time
 Intarsia | 2-4 | 60 | 2.0 | 7.1 | 0 | 2 | Pattern Building, Set Collection
 Propolis | 1-4 | 30 | 2.1 | 7.1 | 0 | 3 | Area Majority / Influence, Contracts, Market, Modular Board, Set Collection, Solo / Solitaire Game, Variable Set-up, Worker Placement
+Brushwood | 2-4 | 30 | 1.3 | 7.1 | 0 | 3,4 | Melding and Splaying
 Caverna: Cave vs Cave | 1-2 | 40 | 2.6 | 7.1 | 0 | 2 | Tile Placement, Worker Placement
 Finca | 2-5 | 45 | 2.1 | 7.1 | 0 | 2 | Contracts, Mancala, Once-Per-Game Abilities, Rondel, Set Collection
 Cacao | 2-4 | 45 | 1.8 | 7.1 | 0 | 3 | Area Majority / Influence, End Game Bonuses, Hand Management, Income, Layering, Map Addition, Open Drafting, Tile Placement
 Ziggurat | 2-4 | 45 | 1.6 | 7.1 | 0 | 4 | Cooperative Game, Legacy Game, Modular Board, Scenario / Mission / Campaign Game, Three Dimensional Movement
 12 Rivers | 2-4 | 75 | 2.0 | 7.1 | 0 | 4 | End Game Bonuses, Hand Management, Multi-Use Cards, Open Drafting, Physical Removal, Set Collection, Worker Placement
-Looot | 2-4 | 35 | 2.1 | 7.1 | 0 | 3 | Contracts, Modular Board, Network and Route Building, Once-Per-Game Abilities, Tile Placement, Worker Placement
 Coal Baron: The Great Card Game | 2-4 | 80 | 2.7 | 7.1 | 0 | ? | Contracts, Hand Management, Open Drafting, Set Collection, Worker Placement
 Settlement | 1-4 | 90 | 2.2 | 7.1 | 0 | ? | End Game Bonuses, Set Collection, Solo / Solitaire Game, Tile Placement, Turn Order: Pass Order
-Big Shot | 2-4 | 30 | 2.0 | 7.0 | 0 | 3,4 | Area Majority / Influence, Auction / Bidding, Dice Rolling, Loans, Victory Points as a Resource
+Looot | 2-4 | 35 | 2.1 | 7.1 | 0 | 3 | Contracts, Modular Board, Network and Route Building, Once-Per-Game Abilities, Tile Placement, Worker Placement
 EXIT: The Game – Theft on the Mississippi | 1-4 | 90 | 2.8 | 7.0 | 0 | 2 | Cooperative Game, Deduction
-Unlock!: Enchanted Adventures | 1-6 | 60 | 2.0 | 7.0 | 0 | 2 | Cooperative Game, Storytelling
+Big Shot | 2-4 | 30 | 2.0 | 7.0 | 0 | 3,4 | Area Majority / Influence, Auction / Bidding, Dice Rolling, Loans, Victory Points as a Resource
 Ascension: Deckbuilding Game | 1-4 | 30 | 2.1 | 7.0 | 0 | 2 | Deck, Bag, and Pool Building, Hand Management, Open Drafting
 RoboRally | 2-8 | 120 | 2.4 | 7.0 | 0 | 5,6 | Action Queue, Bias, Grid Movement, Lose a Turn, Modular Board, Programmed Movement, Race, Scenario / Mission / Campaign Game
 Alhambra | 2-6 | 60 | 2.1 | 7.0 | 0 | 3 | Area Majority / Influence, Hand Management, Open Drafting, Set Collection, Tile Placement
@@ -254,43 +254,44 @@ Onirim (Second Edition) | 1-2 | 15 | 1.6 | 7.0 | 0 | 1 | Cooperative Game, Hand 
 Pondscape | 1-4 | 35 | 2.0 | 7.0 | 0 | 2 | Grid Coverage, Hand Management
 Autobahn | 1-4 | 150 | 3.8 | 7.0 | 0 | 3 | Hand Management, Network and Route Building, Pick-up and Deliver, Solo / Solitaire Game, Tech Trees / Tech Tracks
 EXIT: The Game – The Sunken Treasure | 1-4 | 90 | 1.8 | 7.0 | 0 | 2 | Cooperative Game, Deduction, Move Through Deck, Real-Time, Simulation
+Profiler: Stranger Things – The Shadows of Hawkins | 1-6 | 120 | ? | 7.0 | 0 | ? | ?
+Unlock!: Enchanted Adventures | 1-6 | 60 | 2.0 | 7.0 | 0 | 2 | Cooperative Game, Storytelling
 Ticket to Ride: First Journey (Europe) | 2-4 | 30 | 1.5 | 7.0 | 0 | 4 | Hand Management, Network and Route Building, Set Collection
 Cockroach Poker Royal | 2-6 | 25 | 1.1 | 7.0 | 0 | 4,5 | Hand Management, Set Collection, Single Loser Game
-Brew | 2-4 | 90 | 2.4 | 7.0 | 0 | 3 | Area Majority / Influence, Dice Rolling, Open Drafting, Take That, Turn Order: Progressive, Variable Player Powers, Worker Placement with Dice Workers
 Escape Tales: Children of Wyrmwoods | 1-4 | 450 | 2.5 | 7.0 | 0 | 2 | Cooperative Game
 Meeple Circus | 2-5 | 45 | 1.4 | 7.0 | 0 | 4,5 | Open Drafting, Pattern Building, Push Your Luck, Real-Time, Stacking and Balancing
+Brew | 2-4 | 90 | 2.4 | 7.0 | 0 | 3 | Area Majority / Influence, Dice Rolling, Open Drafting, Take That, Turn Order: Progressive, Variable Player Powers, Worker Placement with Dice Workers
 Disney Robin Hood: Sheriff of Nottingham Game | 3-5 | 45 | 1.7 | 7.0 | 0 | 5 | Betting and Bluffing, Hand Management, Negotiation, Set Collection
 Solenia | 1-4 | 45 | 2.2 | 7.0 | 0 | 3 | Bias, Hand Management, Modular Board, Pick-up and Deliver, Solo / Solitaire Game
+Shinkansen: Zero-Kei | 1-4 | 60 | 2.6 | 7.0 | 0 | 3 | Action / Event, Network and Route Building, Order Counters, Victory Points as a Resource
 Manila | 3-5 | 60 | 2.0 | 7.0 | 0 | 4 | Auction / Bidding, Auction: Turn Order Until Pass, Betting and Bluffing, Commodity Speculation, Dice Rolling, Loans, Stock Holding, Worker Placement
 Backstories: Alone Under the Ice | 1-6 | 70 | 1.2 | 7.0 | 0 | 1,2 | Cooperative Game, Move Through Deck, Narrative Choice / Paragraph, Storytelling
-Shinkansen: Zero-Kei | 1-4 | 60 | 2.6 | 7.0 | 0 | 3 | Action / Event, Network and Route Building, Order Counters, Victory Points as a Resource
-Nimalia | 2-4 | 30 | 1.7 | 7.0 | 0 | 3 | Closed Drafting, Grid Coverage, Layering, Simultaneous Action Selection, Tile Placement
 Oh My Goods! | 2-4 | 30 | 2.3 | 7.0 | 0 | 2 | Action Queue, Contracts, End Game Bonuses, Hand Management, Income, Multi-Use Cards, Open Drafting, Push Your Luck
+Nimalia | 2-4 | 30 | 1.7 | 7.0 | 0 | 3 | Closed Drafting, Grid Coverage, Layering, Simultaneous Action Selection, Tile Placement
 Coloretto | 2-5 | 30 | 1.3 | 7.0 | 0 | 4 | Open Drafting, Push Your Luck, Set Collection, Turn Order: Pass Order
-Yummy Yummy Monster Tummy | 2-4 | 30 | 1.1 | 7.0 | 0 | 3 | Cooperative Game, Hand Management, Matching, Push Your Luck
 Fabled Fruit | 2-5 | 30 | 1.6 | 7.0 | 0 | 4 | Multi-Use Cards, Set Collection, Worker Placement
+Yummy Yummy Monster Tummy | 2-4 | 30 | 1.1 | 7.0 | 0 | 3 | Cooperative Game, Hand Management, Matching, Push Your Luck
+Add To Playlist | 2-10 | 25 | 1.0 | 7.0 | 0 | ? | Deduction, Team-Based Game
 Azul Duel | 2 | 45 | 2.3 | 7.0 | 0 | 2 | End Game Bonuses, Layering, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action
 The Great Split | 2-7 | 45 | 2.0 | 7.0 | 0 | 4,5 | Closed Drafting, I Cut, You Choose, Neighbor Scope, Score-and-Reset Game, Simultaneous Action Selection, Tech Trees / Tech Tracks, Variable Set-up
-Between Two Cities | 1-7 | 25 | 1.8 | 7.0 | 0 | 5,6 | Closed Drafting, Highest-Lowest Scoring, Neighbor Scope, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Tile Placement
 Morels | 2 | 30 | 1.7 | 7.0 | 0 | 2 | Hand Management, Open Drafting, Set Collection
-Raiders of the Cariddean | 1-4 | 20 | 2.0 | 7.0 | 0 | 2,3 | Open Drafting, Set Collection, Solo / Solitaire Game
+Between Two Cities | 1-7 | 25 | 1.8 | 7.0 | 0 | 5,6 | Closed Drafting, Highest-Lowest Scoring, Neighbor Scope, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Tile Placement
 District Noir | 2 | 20 | 1.4 | 7.0 | 0 | 2 | Hand Management, Open Drafting, Push Your Luck, Set Collection, Sudden Death Ending
-Canal Houses | 2-5 | 20 | 1.3 | 7.0 | 0 | 4 | Closed Drafting, Set Collection
-Add To Playlist | 2-10 | 25 | 1.0 | 7.0 | 0 | ? | Deduction, Team-Based Game
 Not Alone | 2-7 | 45 | 2.0 | 7.0 | 0 | 4,5 | Deck, Bag, and Pool Building, Hand Management, Hidden Movement, Race, Simultaneous Action Selection, Team-Based Game
 Boxtop Pinball: Haunted House | 1-4 | 30 | 1.0 | 7.0 | 0 | 4 | Flicking
-TIME Stories Revolution: The Hadal Project | 1-4 | 180 | 2.6 | 6.9 | 0 | 4 | Cooperative Game, Storytelling, Variable Player Powers
+Canal Houses | 2-5 | 20 | 1.3 | 7.0 | 0 | 4 | Closed Drafting, Set Collection
+TIME Stories Revolution: The Hadal Project | 1-4 | 180 | 2.6 | 7.0 | 0 | 4 | Cooperative Game, Storytelling, Variable Player Powers
+Dance of Muses | 1-4 | 25 | 2.0 | 7.0 | 0 | 2,3 | Grid Movement, Secret Unit Deployment, Slide / Push, Team-Based Game, Variable Player Powers
 Mesos | 2-5 | 50 | 2.0 | 6.9 | 0 | 4 | End Game Bonuses, Events, Open Drafting, Set Collection, Turn Order: Claim Action
 Wonder Bowling | 2-6 | 20 | 1.1 | 6.9 | 0 | 4 | Flicking, Physical Removal, Player Elimination
+Audience | 2-6 | 30 | 2.0 | 6.9 | 0 | 4 | Area Majority / Influence, Hand Management, Market, Set Collection, Team-Based Game
 Ink | 1-4 | 45 | 1.9 | 6.9 | 0 | 2 | Contracts, Pattern Building, Rondel, Solo / Solitaire Game, Tile Placement
 Key Enigma: The Butterfly Curse | 1-6 | 120 | 2.0 | 6.9 | 0 | 1 | Cooperative Game, Deduction, Storytelling
-Audience | 2-6 | 30 | 2.0 | 6.9 | 0 | 4 | Area Majority / Influence, Hand Management, Market, Set Collection, Team-Based Game
-Dance of Muses | 1-4 | 25 | 2.0 | 6.9 | 0 | 2,3 | Grid Movement, Secret Unit Deployment, Slide / Push, Team-Based Game, Variable Player Powers
-Profiler: Stranger Things – The Shadows of Hawkins | 1-6 | 120 | ? | 6.9 | 0 | ? | ?
 Empire's End | 2-4 | 60 | 2.4 | 6.9 | 0 | 3,4 | Auction / Bidding, Auction Compensation, Auction: Multiple Lot, Auction: Turn Order Until Pass, Closed Economy Auction, Constrained Bidding, End Game Bonuses, Events
-Don't Get Got! | 2-10 | ? | 1.1 | 6.9 | 0 | 6,7,8,9 | Acting, Hidden Roles
+Raiders of the Cariddean | 1-4 | 20 | 2.0 | 6.9 | 0 | 2,3 | Open Drafting, Set Collection, Solo / Solitaire Game
 Unlock!: Short Adventures – In Pursuit of Cabrakan | 1-6 | 30 | 2.0 | 6.9 | 0 | 2 | Cooperative Game, Elapsed Real Time Ending, Real-Time, Storytelling
 Minecraft Explorers | 1-4 | 60 | 1.7 | 6.9 | 0 | 1,2 | Action Points, Contracts, Cooperative Game, Open Drafting
+Don't Get Got! | 2-10 | ? | 1.1 | 6.9 | 0 | 6,7,8,9 | Acting, Hidden Roles
 DUBITO | 2-8 | 20 | 1.0 | 6.9 | 0 | 4 | Dice Rolling
 Ragusa | 1-5 | 80 | 2.8 | 6.9 | 0 | 4 | Commodity Speculation, Connections, Contracts, End Game Bonuses, Set Collection, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types
 The Name of the Rose | 2-5 | 75 | 2.4 | 6.9 | 0 | 4 | Deduction, Hand Management, Secret Unit Deployment
@@ -302,53 +303,53 @@ One Small Step | 2-4 | 120 | 3.2 | 6.9 | 0 | 2 | Modular Board, Set Collection, 
 Honshū | 2-5 | 30 | 1.9 | 6.9 | 0 | 4 | Auction / Bidding, Closed Drafting, End Game Bonuses, Hand Management, Layering, Melding and Splaying, Pattern Building, Selection Order Bid
 Disco Draw | 3-6 | 30 | ? | 6.9 | 0 | ? | Deduction, Drawing
 La Isla | 2-4 | 60 | 2.3 | 6.9 | 0 | 4 | Action Queue, Commodity Speculation, Enclosure, Hand Management, Modular Board, Multi-Use Cards, Set Collection, Simultaneous Action Selection
-Decktective: Nightmare in the Mirror | 1-6 | 60 | 1.5 | 6.9 | 0 | 2 | Cooperative Game, Deduction, Hand Management, Memory, Solo / Solitaire Game, Storytelling
 Frutticola | 2-4 | 60 | 2.7 | 6.9 | 0 | ? | Worker Placement
+Decktective: Nightmare in the Mirror | 1-6 | 60 | 1.5 | 6.9 | 0 | 2 | Cooperative Game, Deduction, Hand Management, Memory, Solo / Solitaire Game, Storytelling
 Landmarks | 2-10 | 25 | 1.5 | 6.8 | 0 | 2,4,5,6 | Communication Limits, Cooperative Game
 Carolus Magnus | 2-4 | 60 | 2.6 | 6.8 | 0 | 3 | Area Majority / Influence, Dice Rolling, Hand Management, Modular Board, Team-Based Game, Track Movement, Turn Order: Auction
 Kites | 2-6 | 10 | 1.1 | 6.8 | 0 | 4,5,6 | Cooperative Game
 Cóatl | 1-4 | 60 | 2.0 | 6.8 | 0 | 3 | Contracts, Hand Management, Once-Per-Game Abilities, Open Drafting, Pattern Building, Set Collection
-Puerto Banana | 2-6 | 15 | 1.2 | 6.8 | 0 | 4,5,6 | Auction: Sealed Bid
 Pirate King! | 2-5 | 15 | 1.2 | 6.8 | 0 | 2,3,4 | Deck Construction, Push Your Luck, Simultaneous Action Selection, Variable Set-up
-Prey Another Day | 2-5 | 20 | 1.1 | 6.8 | 0 | 4,5 | Player Elimination, Score-and-Reset Game, Simultaneous Action Selection
+Puerto Banana | 2-6 | 15 | 1.2 | 6.8 | 0 | 4,5,6 | Auction: Sealed Bid
+Wednesday: The Raven's Truth | 2-6 | 60 | 2.0 | 6.8 | 0 | 5,6 | Betting and Bluffing, Deduction, Hidden Roles, Roles with Asymmetric Information, Worker Placement
 First Giants | 2-5 | 30 | 2.1 | 6.8 | 0 | 2,3 | Action Retrieval, Open Drafting, Set Collection
-Kabuki Tricks | 2-5 | 30 | 1.1 | 6.8 | 0 | 4 | Hand Management, Predictive Bid, Trick-taking
+Citadels Duel | 2 | 30 | 2.1 | 6.8 | 0 | 2 | Set Collection, Take That, Turn Order: Role Order, Variable Player Powers
+Prey Another Day | 2-5 | 20 | 1.1 | 6.8 | 0 | 4,5 | Player Elimination, Score-and-Reset Game, Simultaneous Action Selection
 Dirt & Dust | 1-4 | 90 | 3.3 | 6.8 | 0 | 2,4 | Deck, Bag, and Pool Building, Dice Rolling, Solo / Solitaire Game
 Side Quest: Nemesis | 1-4 | 120 | 1.7 | 6.8 | 0 | 2 | Cooperative Game, Deduction, Events, Storytelling
+Kabuki Tricks | 2-5 | 30 | 1.1 | 6.8 | 0 | 4 | Hand Management, Predictive Bid, Trick-taking
 Piña Coladice | 2-4 | 20 | 1.0 | 6.8 | 0 | 3 | Connections, Dice Rolling, Modular Board, Re-rolling and Locking, Worker Placement
-Rolliverse Dragons | 2-4 | 20 | ? | 6.8 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
 Cockroach Poker | 2-6 | 20 | 1.1 | 6.8 | 0 | 5 | Hand Management, Set Collection, Single Loser Game
 Similo: Board Games '22 | 2-8 | 15 | 1.1 | 6.8 | 0 | 3,4 | Communication Limits, Cooperative Game, Deduction, Score-and-Reset Game, Voting
-Wednesday: The Raven's Truth | 2-6 | 60 | 2.0 | 6.8 | 0 | 5,6 | Betting and Bluffing, Deduction, Hidden Roles, Roles with Asymmetric Information, Worker Placement
-Colt Super Express | 3-7 | 20 | 1.1 | 6.8 | 0 | 4,5,6 | Action Queue, Hand Management, Memory, Player Elimination, Programmed Movement, Simultaneous Action Selection
 Timeline: Classic | 2-6 | 15 | 1.1 | 6.8 | 0 | 3,4 | ?
-Zena 1814 | 2-5 | 90 | 2.9 | 6.8 | 0 | 5 | Area Majority / Influence, Hand Management
-Sierra West | 1-4 | 60 | 3.0 | 6.8 | 0 | 2 | Action Queue, Deck, Bag, and Pool Building, Dice Rolling, End Game Bonuses, Hand Management, Modular Board, Open Drafting, Resource to Move
+Colt Super Express | 3-7 | 20 | 1.1 | 6.8 | 0 | 4,5,6 | Action Queue, Hand Management, Memory, Player Elimination, Programmed Movement, Simultaneous Action Selection
 Altay: Dawn of Civilization | 2-4 | 90 | 2.3 | 6.8 | 0 | 4 | Area Majority / Influence, Deck, Bag, and Pool Building, Player Elimination, Variable Player Powers, Variable Set-up
+Sierra West | 1-4 | 60 | 3.0 | 6.8 | 0 | 2 | Action Queue, Deck, Bag, and Pool Building, Dice Rolling, End Game Bonuses, Hand Management, Modular Board, Open Drafting, Resource to Move
+Zena 1814 | 2-5 | 90 | 2.9 | 6.8 | 0 | 5 | Area Majority / Influence, Hand Management
 Animal Upon Animal | 2-4 | 15 | 1.0 | 6.8 | 0 | 4 | Dice Rolling, Stacking and Balancing, Take That
 Life in Reterra | 2-4 | 35 | 2.0 | 6.8 | 0 | 4 | Automatic Resource Growth, Delayed Purchase, Enclosure, End Game Bonuses, Layering, Map Addition, Neighbor Scope, Open Drafting
 World of Warcraft: The Boardgame | 2-6 | 180 | 3.5 | 6.7 | 0 | 4 | Area Movement, Dice Rolling, Hand Management, Team-Based Game, Variable Player Powers
-Citadels Duel | 2 | 30 | 2.1 | 6.7 | 0 | 2 | Set Collection, Take That, Turn Order: Role Order, Variable Player Powers
 Tinderblox | 2-6 | 15 | 1.0 | 6.7 | 0 | 3,4 | Player Elimination, Stacking and Balancing
-Guilds of London | 1-4 | 90 | 3.1 | 6.7 | 0 | 4 | Area Majority / Influence, Hand Management, Modular Board
 Unlock!: Short Adventures – Schrödinger's Cat | 1-6 | 60 | 2.0 | 6.7 | 0 | 2 | Cooperative Game, Real-Time
-Secret Society | 3-7 | 30 | ? | 6.7 | 0 | 5,6,7 | Deduction, Hidden Roles
 Momiji | 1-4 | 30 | 1.8 | 6.7 | 0 | 3,4 | Hand Management, Memory, Open Drafting, Set Collection, Solo / Solitaire Game, Variable Player Powers
-Universal Rule | 3-5 | 45 | 2.4 | 6.7 | 0 | 4,5 | Hand Management
+Guilds of London | 1-4 | 90 | 3.1 | 6.7 | 0 | 4 | Area Majority / Influence, Hand Management, Modular Board
 Splito | 3-8 | 20 | 1.3 | 6.7 | 0 | 5,6 | Closed Drafting, Neighbor Scope, Simultaneous Action Selection
+Secret Society | 3-7 | 30 | ? | 6.7 | 0 | 5,6,7 | Deduction, Hidden Roles
+Universal Rule | 3-5 | 45 | 2.4 | 6.7 | 0 | 4,5 | Hand Management
 Escape Your House: Spy Team | 3-6 | 90 | 2.0 | 6.7 | 0 | 4 | Cooperative Game, Deduction, Elapsed Real Time Ending
 The Game | 1-5 | 20 | 1.2 | 6.7 | 0 | 3,4 | Communication Limits, Cooperative Game, Hand Management, Solo / Solitaire Game
-The Dream | 2-4 | 20 | 2.0 | 6.7 | 0 | ? | Traitor Game
-Unlock!: Short Adventures – The Awakening of the Mummy | 1-6 | 45 | 1.7 | 6.7 | 0 | 2 | Cooperative Game, Real-Time
 Merry Christmas | 2-5 | 15 | ? | 6.7 | 0 | 4 | Hand Management
+Unlock!: Short Adventures – The Awakening of the Mummy | 1-6 | 45 | 1.7 | 6.7 | 0 | 2 | Cooperative Game, Real-Time
 Murder of a Millionaire | 1-99 | 120 | 3.0 | 6.7 | 0 | 2 | Cooperative Game, Deduction
 TIME Stories Revolution: A Midsummer Night | 1-4 | 180 | 2.3 | 6.7 | 0 | 2,4 | Cooperative Game, Role Playing, Storytelling, Variable Player Powers
 Moon River | 2-4 | 45 | 2.0 | 6.7 | 0 | 2 | Open Drafting, Take That, Tile Placement, Turn Order: Claim Action
+The Dream | 2-4 | 20 | 2.0 | 6.7 | 0 | ? | Traitor Game
 Rolling Ranch | 1-20 | 20 | 1.2 | 6.7 | 0 | 4,5,8,9,10,11,12 | Dice Rolling, Paper-and-Pencil
 Brick Like This! | 2-8 | 15 | 1.3 | 6.7 | 0 | 4,6,8 | Communication Limits, Pattern Building, Race, Real-Time, Team-Based Game
 Sand | 1-4 | 120 | 3.3 | 6.7 | 0 | 2 | Action Points, Contracts, Dice Rolling, Different Dice Movement, Pick-up and Deliver, Point to Point Movement, Resource to Move, Set Collection
 A Peaceful Garden | 2 | 15 | 1.3 | 6.7 | 0 | 2 | Area Majority / Influence, Variable Set-up
 Collect! | 2-5 | 30 | 1.2 | 6.7 | 0 | 3 | Set Collection, Take That
+Rolliverse Dragons | 2-4 | 20 | ? | 6.7 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
 Cookie Box | 2-4 | 20 | 1.0 | 6.6 | 0 | 4 | Memory, Pattern Recognition
 Rumblebots | 2-4 | 60 | 2.4 | 6.6 | 0 | 4 | Catch the Leader, Deck Construction, Hand Management
 Vegas Strip | 2-6 | 40 | 2.2 | 6.6 | 0 | 4,6 | Auction: Multiple Lot, Deduction, Team-Based Game
@@ -361,22 +362,22 @@ Gonzaga | 2-4 | 60 | 2.5 | 6.6 | 0 | 3,4 | Area Majority / Influence, Hand Manag
 Cold Case: A Story to Die for | 1-4 | 120 | 1.8 | 6.6 | 0 | 2,3,4 | Cooperative Game, Solo / Solitaire Game
 Haleakala | 2 | 40 | 2.4 | 6.6 | 0 | 2 | Area Majority / Influence, Hand Management
 Suspects: The MacGuffin Affair | 1-8 | 90 | 1.7 | 6.6 | 0 | 3 | Cooperative Game, Solo / Solitaire Game, Storytelling
-Happy Mochi | 2-6 | 20 | 1.2 | 6.5 | 0 | 4,6 | Matching
+Two Rooms | 2 | 30 | 1.8 | 6.6 | 0 | 2 | Communication Limits, Cooperative Game, Deduction, Memory
 MON: Emblems of Sengoku | 2-6 | 30 | 1.2 | 6.5 | 0 | 2,4 | Layering, Melding and Splaying
-Two Rooms | 2 | 30 | 1.8 | 6.5 | 0 | 2 | Communication Limits, Cooperative Game, Deduction, Memory
 Cucumber Catastrophe | 3-6 | 20 | 1.0 | 6.5 | 0 | 5,6 | Trick-taking
+Happy Mochi | 2-6 | 20 | 1.2 | 6.5 | 0 | 4,6 | Matching
 Adventure Games: Monochrome Inc. | 1-4 | 75 | 1.9 | 6.5 | 0 | 2 | Cooperative Game, Narrative Choice / Paragraph
 Dobble | 2-8 | 15 | 1.0 | 6.5 | 0 | 4,5 | Hot Potato, Pattern Recognition, Speed Matching
 Crime Zoom: Bird of Ill Omen | 1-6 | 60 | 1.5 | 6.5 | 0 | 2 | Cooperative Game, Narrative Choice / Paragraph, Storytelling
 Karmaka | 2-4 | 60 | 1.9 | 6.5 | 0 | 2,3 | Deck, Bag, and Pool Building, Hand Management, Open Drafting, Set Collection, Take That
 Barbascura X: Bestie Bastarde | 3-6 | 20 | 1.0 | 6.5 | 0 | 4 | Hand Management, Simultaneous Action Selection
-A Column of Fire | 2-4 | 90 | 2.4 | 6.5 | 0 | 4 | Area Majority / Influence, Dice Rolling, Open Drafting, Worker Placement
 Tonga Bonga | 3-4 | 45 | 1.7 | 6.5 | 0 | 4 | Betting and Bluffing, Bribery, Dice Rolling, Set Collection
+A Column of Fire | 2-4 | 90 | 2.4 | 6.5 | 0 | 4 | Area Majority / Influence, Dice Rolling, Open Drafting, Worker Placement
 Prospect Detective: Caso 0056 – Il delitto della Motocicletta | 1-99 | 150 | 1.0 | 6.5 | 0 | 2,3 | Cooperative Game, Deduction
-Ninja Master | 2-5 | 15 | 1.0 | 6.5 | 0 | 3,4 | Dice Rolling, Pattern Recognition, Speed Matching
 Abalone | 2 | 30 | 2.1 | 6.5 | 0 | 2 | Grid Movement, Hexagon Grid, Slide / Push, Static Capture
-Lupus in Tabula | 8-24 | 40 | 1.2 | 6.5 | 0 | 10,11,12,13,14,15 | Player Elimination, Role Playing, Team-Based Game, Variable Player Powers, Voting
+Ninja Master | 2-5 | 15 | 1.0 | 6.5 | 0 | 3,4 | Dice Rolling, Pattern Recognition, Speed Matching
 Barbascura X: Evolversi Male | 2-5 | 75 | 1.8 | 6.5 | 0 | 4 | Deck Construction, Events, Take That
+Lupus in Tabula | 8-24 | 40 | 1.2 | 6.5 | 0 | 10,11,12,13,14,15 | Player Elimination, Role Playing, Team-Based Game, Variable Player Powers, Voting
 Tasso Banana | 2-6 | 15 | 1.0 | 6.5 | 0 | 3,4 | Stacking and Balancing
 Friese's Landlord | 2-6 | 40 | 1.8 | 6.5 | 0 | 4 | Hand Management, Income, Interrupts, Layering, Multi-Use Cards, Open Drafting, Set Collection, Take That
 Legions: Abyss Universe | 2 | 30 | 2.1 | 6.5 | 0 | 2 | Area Majority / Influence
@@ -384,21 +385,21 @@ Mamie Moule Maki | 2-8 | 30 | 1.0 | 6.4 | 0 | 4,5,6,7,8 | Voting
 Quoridor Pac-Man | 2-5 | 15 | 1.4 | 6.4 | 0 | 2,4 | Connections, Grid Movement, Square Grid
 Bananagrams | 1-8 | 15 | 1.3 | 6.4 | 0 | 3,4,5 | Race, Real-Time, Spelling, Tile Placement
 Parsifal: A Game of Tarots | 2-6 | 90 | ? | 6.4 | 0 | ? | Alliances, Chaining, Command Cards, Hand Management, Induction, Interrupts, Lose a Turn, Matching
-Bloops | 2-5 | 10 | 1.0 | 6.4 | 0 | ? | Hand Management, Memory, Push Your Luck
 Buffet Boss | 1-5 | 25 | 1.1 | 6.4 | 0 | 3,4 | Open Drafting, Stacking and Balancing, Variable Player Powers
 Hues and Cues | 3-10 | 30 | 1.1 | 6.4 | 0 | 6,7,8 | Communication Limits, Deduction, Score-and-Reset Game, Targeted Clues, Turn Order: Progressive
 Until Proven Guilty: The Starry Sky Necklace | 1-6 | 90 | 2.0 | 6.4 | 0 | 1 | Cooperative Game
 Blue Penguin | 2-5 | 15 | 1.0 | 6.4 | 0 | ? | Hand Management, Trick-taking
 Cheating Moth | 3-5 | 30 | 1.2 | 6.4 | 0 | 5 | Hand Management
 You Can't Say "Umm" | 4-12 | 20 | 1.0 | 6.4 | 0 | 4,6,8 | Communication Limits, Race, Team-Based Game
-Bloom Town | 2-4 | 40 | 1.8 | 6.4 | 0 | 2 | Tile Placement
 Mahé | 2-7 | 20 | 1.2 | 6.4 | 0 | 5,6,7 | Dice Rolling, Push Your Luck, Roll / Spin and Move
+Bloom Town | 2-4 | 40 | 1.8 | 6.4 | 0 | 2 | Tile Placement
 Do Not Disturb | 2-5 | 15 | 2.0 | 6.4 | 0 | ? | Cooperative Game
 AXO | 1-4 | 20 | 1.5 | 6.4 | 0 | 3,4 | Bingo, Grid Coverage, Hand Management, Paper-and-Pencil, Solo / Solitaire Game
+Bloops | 2-5 | 10 | 1.0 | 6.4 | 0 | ? | Hand Management, Memory, Push Your Luck
 Meteo | 2-5 | 15 | 1.0 | 6.3 | 0 | 3 | Deduction, Memory
 Transgalactica | 2-5 | 100 | 3.6 | 6.3 | 0 | 4 | Follow, Worker Placement, Different Worker Types
-Unlock!: Short Adventures – The Song of the Sea Spray | 1-6 | 45 | 2.0 | 6.3 | 0 | 1,2 | Cooperative Game, Real-Time, Solo / Solitaire Game
 Taboo | 4-10 | 20 | 1.2 | 6.3 | 0 | 6,8 | Communication Limits, Team-Based Game
+Unlock!: Short Adventures – The Song of the Sea Spray | 1-6 | 45 | 2.0 | 6.3 | 0 | 1,2 | Cooperative Game, Real-Time, Solo / Solitaire Game
 15 Days | 1-4 | 20 | 1.8 | 6.3 | 0 | 3 | Hand Management, Set Collection
 Gimme That! | 3-8 | 10 | 1.0 | 6.3 | 0 | 5,6 | Dice Rolling, Die Icon Resolution, Paper-and-Pencil, Take That
 Box Monster | 2-4 | 20 | 1.0 | 6.3 | 0 | 4 | Cooperative Game, Set Collection
@@ -408,23 +409,22 @@ De Influencer | 2-5 | 30 | 1.0 | 6.2 | 0 | 2,3 | Area Majority / Influence, Card
 Mini Crimes: The End of the Games | 1-8 | 30 | 1.0 | 6.2 | 0 | 1,2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Storytelling
 Mini Crimes: Like Cat and Mouse | 1-8 | 30 | 1.0 | 6.2 | 0 | 1,2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Storytelling
 Sequence | 2-12 | 30 | 1.3 | 6.2 | 0 | 3,4 | Hand Management, Pattern Building, Take That, Team-Based Game
-Warehouse 51 | 3-5 | 45 | 1.8 | 6.2 | 0 | 5 | Auction / Bidding, Set Collection
 Espresso Doppio | 1-2 | 30 | 1.3 | 6.2 | 0 | 2 | Contracts
+Warehouse 51 | 3-5 | 45 | 1.8 | 6.2 | 0 | 5 | Auction / Bidding, Set Collection
 Dreamember | 2-6 | 30 | 2.0 | 6.2 | 0 | 3,4 | Betting and Bluffing, Deduction, Hand Management
-Depot | 3-5 | 15 | 1.5 | 6.1 | 0 | 4 | Ladder Climbing
 The Mix | 1-4 | 90 | 2.5 | 6.1 | 0 | ? | Deck, Bag, and Pool Building, Dice Rolling, Income, Market, Resource to Move, Simultaneous Action Selection, Worker Placement
 Fire & Stone | 2-4 | 60 | 2.0 | 6.1 | 0 | 4 | Worker Placement
 Wool Street | 2-5 | 15 | ? | 6.1 | 0 | ? | Auction / Bidding, Commodity Speculation
+Depot | 3-5 | 15 | 1.5 | 6.1 | 0 | 4 | Ladder Climbing
 Operation: Mata Hari | 3-8 | 45 | 2.0 | 6.1 | 0 | 7 | Auction / Bidding, Betting and Bluffing, Hand Management, Trading
 Exploding Kittens | 2-5 | 15 | 1.1 | 6.1 | 0 | 4,5 | Hand Management, Hot Potato, Player Elimination, Push Your Luck, Set Collection, Take That
 50 Clues: The Home Temple | 1-5 | 20 | 2.0 | 6.1 | 0 | 2 | Cooperative Game, Storytelling
 Spray | 2-5 | 15 | ? | 6.1 | 0 | ? | Deduction, Tile Placement
-Ding! | 2-7 | 10 | 1.0 | 6.0 | 0 | 4,5,6,7 | ?
-Beasty Council | 2-4 | 20 | ? | 6.0 | 0 | ? | Hand Management, Open Drafting, Set Collection
 Skyward Republic | 2-4 | 75 | 2.0 | 6.0 | 0 | 4 | Contracts, End Game Bonuses, Hand Management, I Cut, You Choose, Open Drafting
-New York, New York | 2-4 | 30 | 1.2 | 5.9 | 0 | 3,4 | Tile Placement
+Ding! | 2-7 | 10 | 1.0 | 6.0 | 0 | 4,5,6,7 | ?
+Rolliverse Star Wars | 2-4 | 20 | 1.0 | 6.0 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
 Munchkin | 3-6 | 120 | 1.8 | 5.9 | 0 | 4 | Hand Management, Race, Take That, Variable Player Powers
-Rolliverse Star Wars | 2-4 | 20 | 1.0 | 5.8 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
+New York, New York | 2-4 | 30 | 1.2 | 5.9 | 0 | 3,4 | Tile Placement
 CONEX | 2-4 | 20 | 1.0 | 5.8 | 0 | 2,3,4 | Dice Rolling, Layering, Pattern Building, Tile Placement
 Trains and Stations | 3-5 | 45 | 1.8 | 5.8 | 0 | 4 | Dice Rolling, Network and Route Building
 Club Unlock | 3-6 | 20 | 1.3 | 5.7 | 0 | 3,4,5,6 | Set Collection
