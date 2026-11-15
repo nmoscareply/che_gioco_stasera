@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-14T10:23+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-15T10:51+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -206,7 +206,7 @@ Arboretum | 2-4 | 30 | 2.1 | 7.2 | 0 | 2 | Connections, Hand Management, Move Th
 dnup | 2-5 | 20 | 1.3 | 7.2 | 0 | 4 | Hand Management, Ladder Climbing
 Tabannusi: Builders of Ur | 1-4 | 120 | 3.9 | 7.2 | 0 | 3,4 | Action Queue, Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Open Drafting, Ownership, Tile Placement
 San Juan | 2-4 | 60 | 2.3 | 7.2 | 0 | 3 | Action Drafting, End Game Bonuses, Follow, Hand Management, Market, Multi-Use Cards, Open Drafting, Set Collection
-Last Lantern | 2-4 | 30 | 2.0 | 7.2 | 0 | ? | Communication Limits, Cooperative Game, Deck, Bag, and Pool Building, Set Collection, Tile Placement
+Last Lantern | 2-4 | 30 | 2.0 | 7.2 | 0 | 3 | Communication Limits, Cooperative Game, Deck, Bag, and Pool Building, Set Collection, Tile Placement
 Shinjuku | 2-4 | 60 | 2.5 | 7.2 | 0 | 4 | Hand Management, Network and Route Building, Pick-up and Deliver, Point to Point Movement
 Carnuta | 2-4 | 25 | 1.7 | 7.2 | 0 | 2,3 | Delayed Purchase, Open Drafting, Set Collection, Tags
 Flower Fields | 1-4 | 40 | 2.0 | 7.2 | 0 | 3 | Grid Coverage, Increase Value of Unchosen Resources, Open Drafting, Tile Placement
