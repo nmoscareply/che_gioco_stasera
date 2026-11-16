@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-15T10:51+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-16T11:13+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -83,7 +83,7 @@ Anno 1800: The Board Game | 2-4 | 120 | 3.1 | 7.7 | 0 | 3 | Contracts, End Game 
 Windmill Valley | 1-4 | 90 | 3.1 | 7.7 | 0 | 3 | End Game Bonuses, Market, Multi-Use Cards, Network and Route Building, Rondel, Solo / Solitaire Game, Variable Player Powers, Variable Set-up
 Castle Combo | 2-5 | 25 | 1.7 | 7.7 | 0 | 2 | End Game Bonuses, Open Drafting, Set Collection, Tags, Tile Placement
 The Red Cathedral | 1-4 | 80 | 2.8 | 7.7 | 0 | 3 | Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Rondel, Solo / Solitaire Game, Victory Points as a Resource
-DJ Set | 3-16 | 20 | 1.0 | 7.6 | 0 | 4,5,6,7,8,9,10 | Team-Based Game
+DJ Set | 3-16 | 20 | 1.0 | 7.6 | 0 | 4,6,8,9,10 | Team-Based Game
 Sanctuary | 1-5 | 100 | 2.8 | 7.6 | 0 | 2,3 | Action Queue, Hand Management, Hexagon Grid, Open Drafting, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up
 Now or Never | 1-4 | 180 | 3.6 | 7.6 | 0 | 2 | Action Drafting, Hand Management, Narrative Choice / Paragraph, Solo / Solitaire Game, Tile Placement, Variable Player Powers
 Sagrada Artisans | 2-4 | 60 | 2.5 | 7.6 | 0 | 2 | Dice Rolling, End Game Bonuses, Grid Coverage, Legacy Game, Open Drafting, Paper-and-Pencil, Pattern Building, Scenario / Mission / Campaign Game
@@ -157,7 +157,7 @@ Mille Fiori | 2-4 | 90 | 2.2 | 7.4 | 0 | 4 | Area Majority / Influence, Closed D
 1923 Cotton Club | 2-4 | 60 | 2.2 | 7.4 | 0 | 3 | Events, Open Drafting, Worker Placement
 Disney Lorcana: Illumineer's Quest – Deep Trouble | 1-2 | 60 | 2.6 | 7.4 | 0 | 1,2 | Cooperative Game, Deck Construction, Solo / Solitaire Game
 Twice as Clever! | 1-4 | 30 | 2.3 | 7.4 | 0 | 2 | Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game
-Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3,4 | Grid Movement, Set Collection
+Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3 | Grid Movement, Set Collection
 Codenames: Duet | 2 | 30 | 1.4 | 7.4 | 0 | 2 | Communication Limits, Cooperative Game, Memory
 Macao | 2-4 | 100 | 3.1 | 7.4 | 0 | 3 | Action Points, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Pick-up and Deliver, Set Collection
 First Class: All Aboard the Orient Express! | 2-4 | 80 | 2.8 | 7.4 | 0 | 4 | Open Drafting, Set Collection, Variable Set-up
