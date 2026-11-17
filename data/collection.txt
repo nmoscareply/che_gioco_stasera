@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-16T11:13+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-17T11:49+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -26,7 +26,7 @@ Sky Team | 2 | 20 | 2.0 | 8.1 | 0 | 2 | Communication Limits, Cooperative Game, 
 Lost Ruins of Arnak | 1-4 | 120 | 2.9 | 8.1 | 0 | 3 | Area Movement, Contracts, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Hand Management, Multi-Use Cards, Once-Per-Game Abilities
 Darwin's Journey | 1-4 | 120 | 3.9 | 8.1 | 0 | 3 | Contracts, Ownership, Pick-up and Deliver, Point to Point Movement, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Set-up
 Marrakesh | 2-4 | 120 | 3.5 | 8.1 | 0 | 3 | Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection
-Fly Away | 2-5 | 20 | 2.0 | 8.1 | 0 | 3,4 | ?
+Fly Away | 2-5 | 20 | 2.0 | 8.1 | 0 | 2,3,4 | ?
 Revive | 1-4 | 120 | 3.5 | 8.0 | 0 | 3 | Deck, Bag, and Pool Building, Hexagon Grid, Map Addition, Network and Route Building, Open Drafting, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers
 A Wild Venture | 2 | 60 | 2.6 | 8.0 | 0 | 2 | Hand Management, Memory, Point to Point Movement, Set Collection, Track Movement
 Bomb Busters | 2-5 | 30 | 2.0 | 8.0 | 0 | 4 | Communication Limits, Cooperative Game, Deduction, Memory, Once-Per-Game Abilities, Real-Time, Scenario / Mission / Campaign Game, Sudden Death Ending
@@ -42,7 +42,7 @@ Clans of Caledonia | 1-4 | 120 | 3.5 | 7.9 | 0 | 4 | Commodity Speculation, Cont
 Orapa Space | 2-5 | 25 | 1.9 | 7.9 | 0 | 2 | Deduction
 Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.6 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
 Marco Polo II: In the Service of the Khan | 2-4 | 120 | 3.4 | 7.9 | 0 | 3 | Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Turn Order: Stat-Based, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
-Courtroom: The Noir Trilogy | 2-6 | 90 | 1.3 | 7.9 | 0 | 6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
+Courtroom: The Noir Trilogy | 2-6 | 90 | 1.8 | 7.9 | 0 | 4,6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
 Ministry of Lost Things: Case 1 – Lint Condition | 1-4 | 180 | 2.6 | 7.9 | 0 | 1,2 | Cooperative Game, Deduction, Solo / Solitaire Game
 Newton & Great Discoveries | 1-4 | 90 | 3.1 | 7.9 | 0 | 1,2,3 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Open Drafting, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement
 Agricola | 1-5 | 150 | 3.6 | 7.9 | 0 | 3,4 | Automatic Resource Growth, Closed Drafting, Enclosure, Increase Value of Unchosen Resources, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement
@@ -181,7 +181,7 @@ Villa | 2-4 | 20 | ? | 7.3 | 0 | ? | ?
 Set & Match | 2-4 | 30 | 1.2 | 7.3 | 0 | 2 | Flicking, Simulation, Tug of War
 YRO | 1-5 | 30 | 2.0 | 7.3 | 0 | 3,4 | Hand Management, Push Your Luck, Set Collection
 Tikal | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Action Points, Area Majority / Influence, Auction / Bidding, Events, Grid Movement, Hexagon Grid, Kill Steal, Layering
-Medico | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
+Medico | 2-4 | 90 | 2.7 | 7.3 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
 La Mia Prima Adventura: Il Tesoro di Atlantide | 1-2 | 20 | 1.0 | 7.3 | 0 | 1,2 | Cooperative Game, Storytelling
 Borealis: Arctic Expeditions | 2-4 | 45 | 2.4 | 7.3 | 0 | 3 | End Game Bonuses, Hand Management, Open Drafting, Pattern Recognition, Race, Set Collection, Slide / Push, Track Movement
 Prospect Detective: Caso 0090 – La carpa di via Catamone | 1-99 | 150 | ? | 7.3 | 0 | ? | Cooperative Game, Deduction
