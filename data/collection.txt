@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-17T11:49+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-18T11:38+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -42,7 +42,7 @@ Clans of Caledonia | 1-4 | 120 | 3.5 | 7.9 | 0 | 4 | Commodity Speculation, Cont
 Orapa Space | 2-5 | 25 | 1.9 | 7.9 | 0 | 2 | Deduction
 Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.6 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
 Marco Polo II: In the Service of the Khan | 2-4 | 120 | 3.4 | 7.9 | 0 | 3 | Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Turn Order: Stat-Based, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
-Courtroom: The Noir Trilogy | 2-6 | 90 | 1.8 | 7.9 | 0 | 4,6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
+Courtroom: The Noir Trilogy | 2-6 | 90 | 1.6 | 7.9 | 0 | 4,6 | Deduction, Interrupts, Scenario / Mission / Campaign Game, Storytelling, Team-Based Game
 Ministry of Lost Things: Case 1 – Lint Condition | 1-4 | 180 | 2.6 | 7.9 | 0 | 1,2 | Cooperative Game, Deduction, Solo / Solitaire Game
 Newton & Great Discoveries | 1-4 | 90 | 3.1 | 7.9 | 0 | 1,2,3 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Open Drafting, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement
 Agricola | 1-5 | 150 | 3.6 | 7.9 | 0 | 3,4 | Automatic Resource Growth, Closed Drafting, Enclosure, Increase Value of Unchosen Resources, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement
