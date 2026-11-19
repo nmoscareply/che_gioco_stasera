@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-18T11:38+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-19T11:37+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -161,11 +161,11 @@ Dewan | 2-4 | 40 | 2.1 | 7.4 | 0 | 3 | Grid Movement, Set Collection
 Codenames: Duet | 2 | 30 | 1.4 | 7.4 | 0 | 2 | Communication Limits, Cooperative Game, Memory
 Macao | 2-4 | 100 | 3.1 | 7.4 | 0 | 3 | Action Points, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Pick-up and Deliver, Set Collection
 First Class: All Aboard the Orient Express! | 2-4 | 80 | 2.8 | 7.4 | 0 | 4 | Open Drafting, Set Collection, Variable Set-up
-Rising Cultures | 2 | 45 | 2.9 | 7.4 | 0 | 2 | Multi-Use Cards
+Rising Cultures | 2 | 45 | 2.8 | 7.4 | 0 | 2 | Multi-Use Cards
 Bella Vista | 2-4 | 45 | 2.1 | 7.4 | 0 | 2,4 | End Game Bonuses, Turn Order: Auction
 Nova Lectio: Status | 2-4 | 45 | 2.7 | 7.4 | 0 | ? | Area Majority / Influence, Auction / Bidding, Open Drafting, Set Collection, Worker Placement
 Pharaon | 1-5 | 75 | 2.7 | 7.4 | 0 | 1,2,3 | Modular Board, Rondel, Solo / Solitaire Game, Variable Player Powers, Variable Set-up, Worker Placement
-Rival Cities | 2 | 45 | 2.5 | 7.4 | 0 | 2 | Rondel, Sudden Death Ending, Tug of War
+Rival Cities | 2 | 45 | 2.6 | 7.4 | 0 | 2 | Rondel, Sudden Death Ending, Tug of War
 Chicken Crimes: il mistero del Dom Gallignon | 1-8 | 120 | 2.5 | 7.4 | 0 | ? | Deduction
 Botanicus | 2-4 | 60 | 2.4 | 7.4 | 0 | 3 | Action Drafting, Grid Coverage, Grid Movement, Modular Board, Resource to Move, Set Collection, Tile Placement, Turn Order: Stat-Based
 Æterna | 2-4 | 120 | 3.1 | 7.4 | 0 | 4 | Area Majority / Influence, Hand Management, Worker Placement
@@ -351,7 +351,7 @@ Brick Like This! | 2-8 | 15 | 1.3 | 6.7 | 0 | 4,6,8 | Communication Limits, Patt
 Sand | 1-4 | 120 | 3.3 | 6.7 | 0 | 2 | Action Points, Contracts, Dice Rolling, Different Dice Movement, Pick-up and Deliver, Point to Point Movement, Resource to Move, Set Collection
 A Peaceful Garden | 2 | 15 | 1.3 | 6.7 | 0 | 2 | Area Majority / Influence, Variable Set-up
 Collect! | 2-5 | 30 | 1.2 | 6.7 | 0 | 3 | Set Collection, Take That
-Rolliverse Dragons | 2-4 | 20 | ? | 6.7 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
+Rolliverse Dragons | 2-4 | 20 | 2.0 | 6.7 | 0 | 2 | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
 Cookie Box | 2-4 | 20 | 1.0 | 6.6 | 0 | 4 | Memory, Pattern Recognition
 Rumblebots | 2-4 | 60 | 2.4 | 6.6 | 0 | 4 | Catch the Leader, Deck Construction, Hand Management
 Vegas Strip | 2-6 | 40 | 2.2 | 6.6 | 0 | 4,6 | Auction: Multiple Lot, Deduction, Team-Based Game
@@ -424,7 +424,7 @@ Exploding Kittens | 2-5 | 15 | 1.1 | 6.1 | 0 | 4,5 | Hand Management, Hot Potato
 Spray | 2-5 | 15 | ? | 6.1 | 0 | ? | Deduction, Tile Placement
 Skyward Republic | 2-4 | 75 | 2.0 | 6.0 | 0 | 4 | Contracts, End Game Bonuses, Hand Management, I Cut, You Choose, Open Drafting
 Ding! | 2-7 | 10 | 1.0 | 6.0 | 0 | 4,5,6,7 | ?
-Rolliverse Star Wars | 2-4 | 20 | 1.0 | 6.0 | 0 | ? | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
+Rolliverse Star Wars | 2-4 | 20 | 1.5 | 6.0 | 0 | 2 | Dice Rolling, Push Your Luck, Re-rolling and Locking, Set Collection
 Munchkin | 3-6 | 120 | 1.8 | 5.9 | 0 | 4 | Hand Management, Race, Take That, Variable Player Powers
 New York, New York | 2-4 | 30 | 1.2 | 5.9 | 0 | 3,4 | Tile Placement
 CONEX | 2-4 | 20 | 1.0 | 5.8 | 0 | 2,3,4 | Dice Rolling, Layering, Pattern Building, Tile Placement
