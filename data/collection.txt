@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-21T10:59+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-22T11:20+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -40,7 +40,7 @@ Grand Austria Hotel | 2-4 | 120 | 3.2 | 8.0 | 0 | 2 | Action Drafting, Contracts
 Stone Age: Anniversary | 2-4 | 90 | 2.3 | 7.9 | 0 | 4 | Dice Rolling, Set Collection, Turn Order: Progressive, Worker Placement
 Clans of Caledonia | 1-4 | 120 | 3.5 | 7.9 | 0 | 4 | Commodity Speculation, Contracts, Hexagon Grid, Income, Market, Modular Board, Network and Route Building, Solo / Solitaire Game
 Orapa Space | 2-5 | 25 | 1.9 | 7.9 | 0 | 2 | Deduction
-Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.6 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
+Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.7 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
 Marco Polo II: In the Service of the Khan | 2-4 | 120 | 3.4 | 7.9 | 0 | 3 | Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Turn Order: Stat-Based, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
 Ministry of Lost Things: Case 1 – Lint Condition | 1-4 | 180 | 2.6 | 7.9 | 0 | 1,2 | Cooperative Game, Deduction, Solo / Solitaire Game
 Newton & Great Discoveries | 1-4 | 90 | 3.1 | 7.9 | 0 | 1,2,3 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Open Drafting, Point to Point Movement, Tech Trees / Tech Tracks, Tile Placement
@@ -57,7 +57,7 @@ Yokohama | 2-4 | 90 | 3.3 | 7.8 | 0 | 3 | Contracts, End Game Bonuses, Grid Move
 El Grande | 2-5 | 120 | 2.9 | 7.8 | 0 | 5 | Action Drafting, Area Majority / Influence, Auction / Bidding, Hand Management, Open Drafting, Selection Order Bid, Simultaneous Action Selection, Take That
 Unlock!: Risky Adventures | 1-6 | 120 | 2.2 | 7.8 | 0 | 2 | Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling
 SCOUT | 2-5 | 20 | 1.4 | 7.8 | 0 | 4 | Hand Management, Ladder Climbing, Score-and-Reset Game
-Fly Away | 2-5 | 20 | 2.0 | 7.8 | 0 | 2,3,4 | ?
+Fly Away | 2-5 | 20 | 1.7 | 7.8 | 0 | 2,3,4 | ?
 Rebirth | 2-4 | 60 | 2.0 | 7.8 | 0 | 3 | Area Majority / Influence, Contracts, End Game Bonuses, Hexagon Grid, Tile Placement
 Five Tribes: The Djinns of Naqala | 2-4 | 80 | 2.8 | 7.8 | 0 | 2 | Auction / Bidding, Constrained Bidding, End Game Bonuses, Hidden Victory Points, Mancala, Modular Board, Set Collection, Square Grid
 The Voyages of Marco Polo | 2-4 | 100 | 3.2 | 7.8 | 0 | 4 | Contracts, Dice Rolling, End Game Bonuses, Point to Point Movement, Resource to Move, Turn Order: Claim Action, Variable Player Powers, Variable Set-up
@@ -100,7 +100,7 @@ The Hobbit: There & Back Again | 1-4 | 30 | 1.8 | 7.6 | 0 | 2,3 | Connections, D
 So Clover! | 3-6 | 30 | 1.1 | 7.6 | 0 | 3,4 | Communication Limits, Cooperative Game
 The King Is Dead: Second Edition | 2-4 | 45 | 2.2 | 7.6 | 0 | 3 | Area Majority / Influence, Campaign / Battle Card Driven, Communication Limits, Hand Management, Map Reduction, Memory, Stock Holding, Variable Set-up
 EXIT: The Game – Advent Calendar: The Intergalactic Race | 1-99 | 45 | 2.0 | 7.6 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
-Kalypso | 1-4 | 60 | 2.4 | 7.6 | 0 | 2,3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
+Kalypso | 1-4 | 60 | 2.3 | 7.6 | 0 | 3 | Chaining, Closed Drafting, Contracts, Cooperative Game, Enclosure, End Game Bonuses, Events, Grid Coverage
 Dorfromantik: The Board Game | 1-6 | 60 | 1.6 | 7.6 | 0 | 1,2 | Area Majority / Influence, Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement, Variable Set-up
 Patchwork | 2 | 30 | 1.6 | 7.6 | 0 | 2 | Grid Coverage, Income, Open Drafting, Rondel, Square Grid, Tile Placement, Turn Order: Stat-Based, Turn Order: Time Track
 The Taverns of Tiefenthal | 2-4 | 60 | 2.7 | 7.6 | 0 | 2,3 | Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Turn Order: Progressive, Worker Placement, Worker Placement with Dice Workers
@@ -188,7 +188,7 @@ Kingdomino | 2-4 | 25 | 1.2 | 7.3 | 0 | 2,4 | Enclosure, Matching, Open Drafting
 Suspects: Claire Harper, Eternal Investigator | 1-6 | 90 | 2.3 | 7.3 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
 Knitting Circle | 1-4 | 45 | 2.1 | 7.3 | 0 | 2 | Chaining, Contracts, End Game Bonuses, Market, Matching, Open Drafting, Pattern Building, Rondel
 Time's Up! | 4-18 | 90 | 1.2 | 7.3 | 0 | 6,8 | Acting, Communication Limits, Memory, Team-Based Game
-Medico | 2-4 | 90 | 2.7 | 7.3 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
+Medico | 2-4 | 90 | 2.8 | 7.3 | 0 | 4 | Pick-up and Deliver, Simultaneous Action Selection
 Luna | 1-4 | 100 | 3.3 | 7.3 | 0 | 4 | Area Majority / Influence, Modular Board, Point to Point Movement, Solo / Solitaire Game, Tile Placement, Worker Placement
 Roam | 2-4 | 45 | 1.8 | 7.3 | 0 | 3 | Action Retrieval, Area Majority / Influence, Auction Compensation, Grid Coverage, Square Grid
 Lost Cities | 2 | 30 | 1.5 | 7.3 | 0 | 2 | Hand Management, Melding and Splaying, Ordering, Push Your Luck, Score-and-Reset Game, Set Collection
