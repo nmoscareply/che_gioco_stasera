@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-22T11:20+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-23T12:33+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -62,7 +62,7 @@ Rebirth | 2-4 | 60 | 2.0 | 7.8 | 0 | 3 | Area Majority / Influence, Contracts, E
 Five Tribes: The Djinns of Naqala | 2-4 | 80 | 2.8 | 7.8 | 0 | 2 | Auction / Bidding, Constrained Bidding, End Game Bonuses, Hidden Victory Points, Mancala, Modular Board, Set Collection, Square Grid
 The Voyages of Marco Polo | 2-4 | 100 | 3.2 | 7.8 | 0 | 4 | Contracts, Dice Rolling, End Game Bonuses, Point to Point Movement, Resource to Move, Turn Order: Claim Action, Variable Player Powers, Variable Set-up
 Wayfarers of the South Tigris | 1-4 | 90 | 3.8 | 7.8 | 0 | 2 | Area Majority / Influence, End Game Bonuses, Modular Board, Open Drafting, Race, Set Collection, Solo / Solitaire Game, Tags
-Beasty Council | 2-4 | 20 | ? | 7.8 | 0 | ? | Hand Management, Open Drafting, Set Collection
+Beasty Council | 2-4 | 20 | 2.0 | 7.8 | 0 | ? | Hand Management, Open Drafting, Set Collection
 Come Sail Away! | 1-4 | 25 | 2.0 | 7.7 | 0 | 2,3 | Closed Drafting, Mancala, Modular Board, Simultaneous Action Selection
 Trajan | 2-4 | 120 | 3.6 | 7.7 | 0 | 4 | Area Movement, Hand Management, Mancala, Open Drafting, Set Collection
 Kutná Hora: The City of Silver | 2-4 | 120 | 3.3 | 7.7 | 0 | 3,4 | Action Queue, Events, Hand Management, Market, Multi-Use Cards, Square Grid, Tile Placement, Turn Order: Progressive
@@ -70,7 +70,7 @@ Hidden Games Tatort: Ein Drahtseilakt | 1-6 | 180 | 2.0 | 7.7 | 0 | 2 | Cooperat
 Lords of Waterdeep | 2-5 | 120 | 2.4 | 7.7 | 0 | 3,4 | Contracts, Hidden Roles, Increase Value of Unchosen Resources, Ownership, Set Collection, Take That, Turn Order: Claim Action, Worker Placement
 Profiler: The Ghosts Of Brandonsbury | 1-6 | 120 | 1.5 | 7.7 | 0 | 2 | Cooperative Game, Deduction
 Indagini Minute | 1-10 | 90 | 2.5 | 7.7 | 0 | 1,2,3,4,5,6,7,8,9,10 | Deduction
-Elementica | 1-4 | 100 | 3.3 | 7.7 | 0 | 2,3 | ?
+Elementica | 1-4 | 100 | 3.5 | 7.7 | 0 | 2,3 | ?
 Russian Railroads | 2-4 | 120 | 3.4 | 7.7 | 0 | 4 | End Game Bonuses, Tech Trees / Tech Tracks, Turn Order: Claim Action, Worker Placement
 Rajas of the Ganges | 2-4 | 75 | 2.9 | 7.7 | 0 | 4 | Connections, Dice Rolling, Race, Tile Placement, Track Movement, Worker Placement, Worker Placement with Dice Workers
 -60° | 1-4 | 180 | 3.7 | 7.7 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
@@ -122,7 +122,7 @@ Faraway | 2-6 | 25 | 2.0 | 7.5 | 0 | 2,3 | Constrained Bidding, End Game Bonuses
 Port Royal: Big Box | 1-5 | 50 | 1.8 | 7.5 | 0 | 3,4 | Contracts, Cooperative Game, Move Through Deck, Open Drafting, Push Your Luck, Set Collection, Solo / Solitaire Game
 Codenames | 2-8 | 15 | 1.3 | 7.5 | 0 | 6,8 | Communication Limits, Deduction, Memory, Race, Team-Based Game
 Arborea | 1-5 | 120 | 3.7 | 7.5 | 0 | 2,3 | Bias, End Game Bonuses, Slide / Push, Solo / Solitaire Game, Tile Placement, Track Movement, Variable Set-up, Worker Placement
-Prague Unseen | 1-4 | 120 | 3.2 | 7.5 | 0 | 3,4 | Area Majority / Influence, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types
+Prague Unseen | 1-4 | 120 | 3.3 | 7.5 | 0 | 3,4 | Area Majority / Influence, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types
 Notre Dame: 10th Anniversary | 2-5 | 75 | 2.5 | 7.5 | 0 | 3 | Area Majority / Influence, Open Drafting, Point to Point Movement
 Hitster | 2-10 | 30 | 1.0 | 7.5 | 0 | 4,5,6 | Ordering
 Pandemic | 2-4 | 45 | 2.4 | 7.5 | 0 | 4 | Action Points, Chaining, Contracts, Cooperative Game, Events, Hand Management, Multi-Use Cards, Point to Point Movement
@@ -135,7 +135,7 @@ Carpe Diem | 2-4 | 75 | 2.5 | 7.5 | 0 | 3 | Area Movement, Contracts, End Game B
 해녀: Sea Divers of Jeju | 2-5 | 40 | 1.8 | 7.5 | 0 | 4 | Area Movement, Highest-Lowest Scoring, Multi-Use Cards, Push Your Luck, Set Collection, Simultaneous Action Selection, Variable Set-up, Worker Placement
 Village | 2-4 | 90 | 3.1 | 7.5 | 0 | 4 | Area Majority / Influence, Contracts, Set Collection, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types
 Messina 1347 | 1-4 | 140 | 3.6 | 7.5 | 0 | 3 | Grid Movement, Income, Modular Board, Solo / Solitaire Game, Track Movement, Variable Player Powers, Variable Set-up, Worker Placement
-Koi | 1-4 | 45 | 2.0 | 7.5 | 0 | 3 | Contracts, End Game Bonuses, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement
+Koi | 1-4 | 45 | 2.1 | 7.5 | 0 | 3 | Contracts, End Game Bonuses, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement
 Botanik | 2 | 30 | 1.8 | 7.5 | 0 | 2 | End Game Bonuses, Modular Board, Network and Route Building, Open Drafting, Pattern Building, Set Collection, Square Grid, Take That
 Kronologic: Paris 1920 | 1-4 | 30 | 2.1 | 7.5 | 0 | ? | Deduction, Grid Movement, Paper-and-Pencil, Point to Point Movement, Race
 Trolls and Princesses | 2-4 | 120 | 3.3 | 7.5 | 0 | 3,4 | Action Points, Hand Management, Set Collection, Tile Placement, Worker Placement
@@ -281,7 +281,7 @@ Boxtop Pinball: Haunted House | 1-4 | 30 | 1.0 | 7.0 | 0 | 4 | Flicking
 Profiler: Stranger Things – The Shadows of Hawkins | 1-6 | 120 | ? | 7.0 | 0 | ? | ?
 Not Alone | 2-7 | 45 | 2.0 | 7.0 | 0 | 4,5 | Deck, Bag, and Pool Building, Hand Management, Hidden Movement, Race, Simultaneous Action Selection, Team-Based Game
 TIME Stories Revolution: The Hadal Project | 1-4 | 180 | 2.6 | 7.0 | 0 | 4 | Cooperative Game, Storytelling, Variable Player Powers
-Dance of Muses | 1-4 | 25 | 2.0 | 7.0 | 0 | 2,3 | Grid Movement, Secret Unit Deployment, Slide / Push, Team-Based Game, Variable Player Powers
+Dance of Muses | 1-4 | 25 | 2.1 | 7.0 | 0 | 2,3 | Grid Movement, Secret Unit Deployment, Slide / Push, Team-Based Game, Variable Player Powers
 Canal Houses | 2-5 | 20 | 1.3 | 7.0 | 0 | 4 | Closed Drafting, Set Collection
 Mesos | 2-5 | 50 | 2.0 | 6.9 | 0 | 4 | End Game Bonuses, Events, Open Drafting, Set Collection, Turn Order: Claim Action
 Wonder Bowling | 2-6 | 20 | 1.1 | 6.9 | 0 | 4 | Flicking, Physical Removal, Player Elimination
@@ -366,7 +366,7 @@ Haleakala | 2 | 40 | 2.4 | 6.6 | 0 | 2 | Area Majority / Influence, Hand Managem
 Suspects: The MacGuffin Affair | 1-8 | 90 | 1.7 | 6.6 | 0 | 3 | Cooperative Game, Solo / Solitaire Game, Storytelling
 Two Rooms | 2 | 30 | 1.8 | 6.6 | 0 | 2 | Communication Limits, Cooperative Game, Deduction, Memory
 Cucumber Catastrophe | 3-6 | 20 | 1.0 | 6.6 | 0 | 5,6 | Trick-taking
-Happy Mochi | 2-6 | 20 | 1.2 | 6.5 | 0 | 4,6 | Matching
+Happy Mochi | 2-6 | 20 | 1.1 | 6.5 | 0 | 4,6 | Matching
 MON: Emblems of Sengoku | 2-6 | 30 | 1.2 | 6.5 | 0 | 2,4 | Layering, Melding and Splaying
 Adventure Games: Monochrome Inc. | 1-4 | 75 | 1.9 | 6.5 | 0 | 2 | Cooperative Game, Narrative Choice / Paragraph
 Barbascura X: Evolversi Male | 2-5 | 75 | 1.8 | 6.5 | 0 | 4 | Deck Construction, Events, Take That
