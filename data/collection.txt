@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-23T12:33+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-24T13:41+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -73,7 +73,7 @@ Indagini Minute | 1-10 | 90 | 2.5 | 7.7 | 0 | 1,2,3,4,5,6,7,8,9,10 | Deduction
 Elementica | 1-4 | 100 | 3.5 | 7.7 | 0 | 2,3 | ?
 Russian Railroads | 2-4 | 120 | 3.4 | 7.7 | 0 | 4 | End Game Bonuses, Tech Trees / Tech Tracks, Turn Order: Claim Action, Worker Placement
 Rajas of the Ganges | 2-4 | 75 | 2.9 | 7.7 | 0 | 4 | Connections, Dice Rolling, Race, Tile Placement, Track Movement, Worker Placement, Worker Placement with Dice Workers
--60° | 1-4 | 180 | 3.7 | 7.7 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
+-60° | 1-4 | 180 | 3.8 | 7.7 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
 Imperial Steam | 2-4 | 120 | 4.2 | 7.7 | 0 | 4 | Action Points, Contracts, Delayed Purchase, End Game Bonuses, Income, Market, Network and Route Building, Open Drafting
 Azul | 2-4 | 45 | 1.8 | 7.7 | 0 | 2 | End Game Bonuses, Grid Coverage, Open Drafting, Pattern Building, Set Collection, Square Grid, Tile Placement, Turn Order: Claim Action
 Puerto Rico 1897 | 2-5 | 120 | 3.0 | 7.7 | 0 | 4 | Action Drafting, End Game Bonuses, Follow, Hidden Victory Points, Increase Value of Unchosen Resources, Turn Order: Progressive, Variable Phase Order
