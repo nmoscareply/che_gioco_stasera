@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-24T13:41+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-25T12:51+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -8,7 +8,7 @@ SherBlock: Lo Spettro di Londra | 1 | 30 | ? | 8.3 | 0 | ? | Narrative Choice / 
 SherBlock: Uno Scandalo in Boemia | 1 | 30 | ? | 8.3 | 0 | 1 | Narrative Choice / Paragraph, Solo / Solitaire Game
 Tristerra: La Grande Baldoria | 3-7 | 120 | ? | 8.3 | 0 | ? | Role Playing, Storytelling
 Terraforming Mars | 1-5 | 120 | 3.3 | 8.3 | 0 | 3 | Closed Drafting, Contracts, End Game Bonuses, Hand Management, Hexagon Grid, Income, Solo / Solitaire Game, Tags
-The Trial of the Forest | 2-4 | 120 | 2.6 | 8.3 | 0 | 3 | Set Collection, Storytelling, Track Movement
+The Trial of the Forest | 2-4 | 120 | 2.7 | 8.3 | 0 | 3 | Set Collection, Storytelling, Track Movement
 Too Many Bones | 1-4 | 120 | 3.9 | 8.3 | 0 | 2 | Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Narrative Choice / Paragraph, Resource to Move, Role Playing, Scenario / Mission / Campaign Game
 Great Western Trail: Second Edition | 1-4 | 150 | 3.7 | 8.3 | 0 | 3 | Deck, Bag, and Pool Building, Hand Management, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Tags, Track Movement
 The Morrison Game Factory | 1-4 | 240 | 2.3 | 8.2 | 0 | 2 | Cooperative Game, Deduction, Solo / Solitaire Game, Storytelling
@@ -252,7 +252,7 @@ RoboRally | 2-8 | 120 | 2.4 | 7.0 | 0 | 5,6 | Action Queue, Bias, Grid Movement,
 Alhambra | 2-6 | 60 | 2.1 | 7.0 | 0 | 3 | Area Majority / Influence, Hand Management, Open Drafting, Set Collection, Tile Placement
 Onirim (Second Edition) | 1-2 | 15 | 1.6 | 7.0 | 0 | 1 | Cooperative Game, Hand Management, Move Through Deck, Open Drafting, Set Collection, Solo / Solitaire Game
 Masterland | 2-4 | 40 | 1.5 | 7.0 | 0 | 2,4 | Hand Management, Player Elimination, Turn Order: Progressive, Victory Points as a Resource
-Pondscape | 1-4 | 35 | 2.0 | 7.0 | 0 | 2 | Grid Coverage, Hand Management
+Pondscape | 1-4 | 35 | 2.0 | 7.0 | 0 | 2,3 | Grid Coverage, Hand Management
 Autobahn | 1-4 | 150 | 3.8 | 7.0 | 0 | 3 | Hand Management, Network and Route Building, Pick-up and Deliver, Solo / Solitaire Game, Tech Trees / Tech Tracks
 Unlock!: Enchanted Adventures | 1-6 | 60 | 2.0 | 7.0 | 0 | 2 | Cooperative Game, Storytelling
 EXIT: The Game – The Sunken Treasure | 1-4 | 90 | 1.8 | 7.0 | 0 | 2 | Cooperative Game, Deduction, Move Through Deck, Real-Time, Simulation
