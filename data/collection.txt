@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-25T12:51+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-26T12:29+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -39,7 +39,7 @@ Dorfromantik: Sakura | 1-6 | 90 | 2.0 | 8.0 | 0 | 2 | Cooperative Game, Hexagon 
 Grand Austria Hotel | 2-4 | 120 | 3.2 | 8.0 | 0 | 2 | Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Set Collection, Turn Order: Progressive, Variable Set-up
 Stone Age: Anniversary | 2-4 | 90 | 2.3 | 7.9 | 0 | 4 | Dice Rolling, Set Collection, Turn Order: Progressive, Worker Placement
 Clans of Caledonia | 1-4 | 120 | 3.5 | 7.9 | 0 | 4 | Commodity Speculation, Contracts, Hexagon Grid, Income, Market, Modular Board, Network and Route Building, Solo / Solitaire Game
-Orapa Space | 2-5 | 25 | 1.9 | 7.9 | 0 | 2 | Deduction
+Orapa Space | 2-5 | 25 | 1.8 | 7.9 | 0 | 2 | Deduction
 Orloj: The Prague Astronomical Clock | 1-4 | 120 | 3.7 | 7.9 | 0 | 3 | Action Retrieval, End Game Bonuses, Rondel, Set Collection, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement
 Marco Polo II: In the Service of the Khan | 2-4 | 120 | 3.4 | 7.9 | 0 | 3 | Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Turn Order: Stat-Based, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers
 Ministry of Lost Things: Case 1 – Lint Condition | 1-4 | 180 | 2.6 | 7.9 | 0 | 1,2 | Cooperative Game, Deduction, Solo / Solitaire Game
@@ -70,7 +70,7 @@ Hidden Games Tatort: Ein Drahtseilakt | 1-6 | 180 | 2.0 | 7.7 | 0 | 2 | Cooperat
 Lords of Waterdeep | 2-5 | 120 | 2.4 | 7.7 | 0 | 3,4 | Contracts, Hidden Roles, Increase Value of Unchosen Resources, Ownership, Set Collection, Take That, Turn Order: Claim Action, Worker Placement
 Profiler: The Ghosts Of Brandonsbury | 1-6 | 120 | 1.5 | 7.7 | 0 | 2 | Cooperative Game, Deduction
 Indagini Minute | 1-10 | 90 | 2.5 | 7.7 | 0 | 1,2,3,4,5,6,7,8,9,10 | Deduction
-Elementica | 1-4 | 100 | 3.5 | 7.7 | 0 | 2,3 | ?
+Elementica | 1-4 | 100 | 3.4 | 7.7 | 0 | 2,3 | ?
 Russian Railroads | 2-4 | 120 | 3.4 | 7.7 | 0 | 4 | End Game Bonuses, Tech Trees / Tech Tracks, Turn Order: Claim Action, Worker Placement
 Rajas of the Ganges | 2-4 | 75 | 2.9 | 7.7 | 0 | 4 | Connections, Dice Rolling, Race, Tile Placement, Track Movement, Worker Placement, Worker Placement with Dice Workers
 -60° | 1-4 | 180 | 3.8 | 7.7 | 0 | 2 | Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Push Your Luck, Solo / Solitaire Game, Worker Placement
