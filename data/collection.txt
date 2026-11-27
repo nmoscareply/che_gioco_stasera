@@ -1,4 +1,4 @@
-COLLEZIONE BGG di nkbobo, aggiornata 2026-11-26T12:29+00:00. 442 giochi (espansioni escluse).
+COLLEZIONE BGG di nkbobo, aggiornata 2026-11-27T12:14+00:00. 442 giochi (espansioni escluse).
 Colonne: nome | giocatori | durata in minuti | peso 1-5 | voto medio utenti BGG | partite giocate | ottimale a (giocatori) | meccaniche
 Il simbolo ? indica un dato non disponibile.
 Ark Nova | 1-4 | 150 | 3.8 | 8.5 | 0 | 2 | Auction: Dutch, Contracts, End Game Bonuses, Events, Expiring Actions, Grid Coverage, Hand Management, Hexagon Grid
@@ -24,7 +24,7 @@ Nucleum | 1-4 | 150 | 4.2 | 8.1 | 0 | 3,4 | Action Retrieval, Contracts, End Gam
 Sky Team | 2 | 20 | 2.0 | 8.1 | 0 | 2 | Communication Limits, Cooperative Game, Dice Rolling, Scenario / Mission / Campaign Game, Turn Order: Progressive, Variable Player Powers, Variable Set-up, Worker Placement with Dice Workers
 Lost Ruins of Arnak | 1-4 | 120 | 2.9 | 8.1 | 0 | 3 | Area Movement, Contracts, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Hand Management, Multi-Use Cards, Once-Per-Game Abilities
 Darwin's Journey | 1-4 | 120 | 3.9 | 8.1 | 0 | 3 | Contracts, Ownership, Pick-up and Deliver, Point to Point Movement, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Set-up
-Níjar | 1-4 | 120 | 3.2 | 8.1 | 0 | 2,3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
+Níjar | 1-4 | 120 | 3.2 | 8.1 | 0 | 3 | Action Retrieval, End Game Bonuses, Hand Management, Market, Trading, Turn Order: Claim Action
 Marrakesh | 2-4 | 120 | 3.5 | 8.1 | 0 | 3 | Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection
 Revive | 1-4 | 120 | 3.5 | 8.0 | 0 | 3 | Deck, Bag, and Pool Building, Hexagon Grid, Map Addition, Network and Route Building, Open Drafting, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers
 A Wild Venture | 2 | 60 | 2.6 | 8.0 | 0 | 2 | Hand Management, Memory, Point to Point Movement, Set Collection, Track Movement
